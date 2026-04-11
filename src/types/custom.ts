@@ -1,0 +1,8 @@
+import { Request } from "express";
+
+export interface CustomRequest extends Request {
+  user?: {
+    taiKhoan: string;
+    maLoaiNguoiDung: string;
+  };
+}
