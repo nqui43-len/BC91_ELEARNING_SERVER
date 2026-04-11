@@ -1,0 +1,78 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// =====================================
+// 1. BẢNG NGƯỜI DÙNG (Giáo vụ & Học viên)
+// =====================================
+model NguoiDung {
+  taiKhoan        String   @id // Ở hệ thống này, Tài khoản (Username) thường được làm Khóa chính
+  matKhau         String
+  hoTen           String
+  email           String   @unique
+  soDT            String?
+  maLoaiNguoiDung String   @default("HV") // "HV": Học viên, "GV": Giáo vụ
+
+  // Quan hệ 1-N: 1 Giáo vụ có thể tạo ra nhiều Khóa học
+  khoaHocDaTao    KhoaHoc[] 
+  
+  // Quan hệ 1-N: 1 Người dùng có thể ghi danh nhiều khóa học
+  ghiDanh         GhiDanh[] 
+}
+
+// =====================================
+// 2. BẢNG DANH MỤC KHÓA HỌC (Lập trình FrontEnd, BackEnd...)
+// =====================================
+model DanhMucKhoaHoc {
+  maDanhMuc  String    @id
+  tenDanhMuc String
+  
+  // Quan hệ 1-N: 1 Danh mục có nhiều Khóa học
+  khoaHoc    KhoaHoc[]
+}
+
+// =====================================
+// 3. BẢNG KHÓA HỌC
+// =====================================
+model KhoaHoc {
+  maKhoaHoc   String   @id
+  tenKhoaHoc  String
+  biDanh      String?  // Tên không dấu dùng cho URL
+  moTa        String?
+  luotXem     Int      @default(0)
+  danhGia     Int      @default(0)
+  hinhAnh     String?
+  ngayTao     String?
+
+  // Khóa ngoại liên kết với Bảng Danh mục
+  maDanhMuc   String?
+  danhMuc     DanhMucKhoaHoc? @relation(fields: [maDanhMuc], references: [maDanhMuc], onDelete: SetNull)
+
+  // Khóa ngoại liên kết với Bảng Người dùng (Ai là người tạo khóa học này?)
+  taiKhoanNguoiTao String?
+  nguoiTao         NguoiDung?     @relation(fields: [taiKhoanNguoiTao], references: [taiKhoan], onDelete: SetNull)
+
+  // Quan hệ 1-N: 1 Khóa học có nhiều lượt Ghi danh
+  ghiDanh          GhiDanh[]
+}
+
+// =====================================
+// 4. BẢNG GHI DANH (Bảng trung gian kết nối Người Dùng và Khóa Học)
+// =====================================
+model GhiDanh {
+  taiKhoan   String
+  maKhoaHoc  String
+  ngayGhiDanh DateTime @default(now())
+
+  // Khóa ngoại kết nối 2 bảng
+  nguoiDung  NguoiDung @relation(fields: [taiKhoan], references: [taiKhoan], onDelete: Cascade)
+  khoaHoc    KhoaHoc   @relation(fields: [maKhoaHoc], references: [maKhoaHoc], onDelete: Cascade)
+
+  // Đặt Khóa chính kép: 1 người chỉ được ghi danh 1 khóa học 1 lần duy nhất
+  @@id([taiKhoan, maKhoaHoc]) 
+}
