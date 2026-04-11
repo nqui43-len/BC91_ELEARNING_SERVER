@@ -136,13 +136,11 @@ export const createCourse = async (
         ngayTao: new Date().toLocaleDateString("en-GB"),
       },
     });
-    res
-      .status(201)
-      .json({
-        statusCode: 201,
-        message: "Thêm thành công!",
-        content: newCourse,
-      });
+    res.status(201).json({
+      statusCode: 201,
+      message: "Thêm thành công!",
+      content: newCourse,
+    });
   } catch (error) {
     sendError(res, 500, "Lỗi khi thêm khóa học", error);
   }
@@ -163,13 +161,11 @@ export const updateCourse = async (
       where: { maKhoaHoc: String(maKhoaHoc) },
       data: { tenKhoaHoc, biDanh, moTa, hinhAnh, maDanhMuc },
     });
-    res
-      .status(200)
-      .json({
-        statusCode: 200,
-        message: "Cập nhật thành công!",
-        content: updatedCourse,
-      });
+    res.status(200).json({
+      statusCode: 200,
+      message: "Cập nhật thành công!",
+      content: updatedCourse,
+    });
   } catch (error) {
     sendError(res, 500, "Lỗi Server", error);
   }
@@ -247,13 +243,11 @@ export const approveEnrollment = async (
     const newEnrollment = await prisma.ghiDanh.create({
       data: { taiKhoan, maKhoaHoc: String(maKhoaHoc) },
     });
-    res
-      .status(200)
-      .json({
-        statusCode: 200,
-        message: "Ghi danh thành công!",
-        content: newEnrollment,
-      });
+    res.status(200).json({
+      statusCode: 200,
+      message: "Ghi danh thành công!",
+      content: newEnrollment,
+    });
   } catch (error) {
     sendError(res, 500, "Lỗi Server", error);
   }
@@ -331,15 +325,124 @@ export const uploadCourseImage = async (
       where: { maKhoaHoc: String(maKhoaHoc) },
       data: { hinhAnh: imageUrl },
     });
-    res
-      .status(200)
-      .json({
-        statusCode: 200,
-        message: "Upload thành công!",
-        content: updatedCourse,
-      });
+    res.status(200).json({
+      statusCode: 200,
+      message: "Upload thành công!",
+      content: updatedCourse,
+    });
   } catch (error) {
     removeTempFile(req.file?.path);
     sendError(res, 500, "Lỗi khi upload", error);
   }
+};
+// [MỚI] Lấy thông tin học viên của khóa học
+export const getCourseStudentsInfo = async (
+  req: Request,
+  res: Response,
+): Promise<void> => {
+  try {
+    const maKhoaHoc = req.query.maKhoaHoc as string;
+    if (!maKhoaHoc) {
+      sendError(res, 400, "Vui lòng cung cấp mã khóa học!");
+      return;
+    }
+
+    // Lấy chi tiết khóa học kèm danh sách Ghi danh -> móc sang bảng Người Dùng
+    const courseInfo = await prisma.khoaHoc.findUnique({
+      where: { maKhoaHoc },
+      include: { ghiDanh: { include: { nguoiDung: true } } },
+    });
+
+    res.status(200).json({ statusCode: 200, content: courseInfo });
+  } catch (error) {
+    sendError(res, 500, "Lỗi Server", error);
+  }
+};
+
+// [MỚI] API Demo (Trả về kết quả ảo)
+export const demoApi = async (req: Request, res: Response): Promise<void> => {
+  res.status(200).json({ statusCode: 200, content: "Demo API Success" });
+};
+
+// [MỚI] Thêm khóa học + Upload Hình Ảnh cùng lúc (Dùng Form-data)
+export const addCourseUploadImage = async (
+  req: CustomRequest,
+  res: Response,
+): Promise<void> => {
+  try {
+    const { maKhoaHoc, tenKhoaHoc, biDanh, moTa, maDanhMuc } = req.body;
+    if (!req.file) {
+      sendError(res, 400, "Vui lòng đính kèm hình ảnh!");
+      return;
+    }
+
+    const imageUrl = `/public/img/${req.file.filename}`;
+    const newCourse = await prisma.khoaHoc.create({
+      data: {
+        maKhoaHoc,
+        tenKhoaHoc,
+        biDanh,
+        moTa,
+        maDanhMuc,
+        hinhAnh: imageUrl,
+        taiKhoanNguoiTao: req.user!.taiKhoan,
+        ngayTao: new Date().toLocaleDateString("en-GB"),
+      },
+    });
+    res
+      .status(201)
+      .json({
+        statusCode: 201,
+        message: "Thêm thành công!",
+        content: newCourse,
+      });
+  } catch (error) {
+    removeTempFile(req.file?.path);
+    sendError(res, 500, "Lỗi Server", error);
+  }
+};
+
+// [MỚI] Cập nhật khóa học + Upload Hình Ảnh cùng lúc
+export const updateCourseUpload = async (
+  req: CustomRequest,
+  res: Response,
+): Promise<void> => {
+  try {
+    const { maKhoaHoc, tenKhoaHoc, biDanh, moTa, maDanhMuc } = req.body;
+    if (!(await checkCourseExists(String(maKhoaHoc)))) {
+      removeTempFile(req.file?.path);
+      sendError(res, 404, "Không tìm thấy khóa học!");
+      return;
+    }
+
+    // Xây dựng cục data cần update
+    const updateData: any = { tenKhoaHoc, biDanh, moTa, maDanhMuc };
+    if (req.file) {
+      // Nếu có đẩy file mới lên thì mới cập nhật đường dẫn hình
+      updateData.hinhAnh = `/public/img/${req.file.filename}`;
+    }
+
+    const updatedCourse = await prisma.khoaHoc.update({
+      where: { maKhoaHoc: String(maKhoaHoc) },
+      data: updateData,
+    });
+    res
+      .status(200)
+      .json({
+        statusCode: 200,
+        message: "Cập nhật thành công!",
+        content: updatedCourse,
+      });
+  } catch (error) {
+    removeTempFile(req.file?.path);
+    sendError(res, 500, "Lỗi Server", error);
+  }
+};
+
+// [MỚI] Post Generic (Thêm khóa học rút gọn)
+export const genericPostCourse = async (
+  req: CustomRequest,
+  res: Response,
+): Promise<void> => {
+  res.status(200).json({ statusCode: 200, message: "Generic POST OK" });
 };

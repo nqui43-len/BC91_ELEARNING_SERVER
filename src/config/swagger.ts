@@ -12,6 +12,10 @@ const swaggerOptions = {
     },
     servers: [
       { url: "http://localhost:8080", description: "Local Development Server" },
+      {
+        url: "https://elearning-api-bc91.onrender.com",
+        description: "Production Server",
+      },
     ],
     components: {
       securitySchemes: {
@@ -151,7 +155,7 @@ const swaggerOptions = {
           ],
           responses: { "200": { description: "Thành công" } },
         },
-      }, 
+      },
       "/api/QuanLyNguoiDung/LayDanhSachNguoiDung_PhanTrang": {
         get: {
           summary: "Lấy danh sách người dùng phân trang",
@@ -365,14 +369,9 @@ const swaggerOptions = {
         },
       },
 
-      // --- SWAGGER QUẢN LÝ KHÓA HỌC ---
-      "/api/QuanLyKhoaHoc/LayDanhMucKhoaHoc": {
-        get: {
-          summary: "Lấy danh mục",
-          tags: ["QuanLyKhoaHoc"],
-          responses: { "200": { description: "Thành công" } },
-        },
-      },
+      // ===================================
+      // BẮT ĐẦU CỤM: QUAN LÝ KHÓA HỌC
+      // ===================================
       "/api/QuanLyKhoaHoc/LayDanhSachKhoaHoc": {
         get: {
           summary: "Lấy danh sách khóa học",
@@ -383,18 +382,10 @@ const swaggerOptions = {
           responses: { "200": { description: "Thành công" } },
         },
       },
-      "/api/QuanLyKhoaHoc/LayThongTinKhoaHoc": {
+      "/api/QuanLyKhoaHoc/LayDanhMucKhoaHoc": {
         get: {
-          summary: "Lấy thông tin chi tiết khóa học",
+          summary: "Lấy danh mục",
           tags: ["QuanLyKhoaHoc"],
-          parameters: [
-            {
-              name: "maKhoaHoc",
-              in: "query",
-              required: true,
-              schema: { type: "string" },
-            },
-          ],
           responses: { "200": { description: "Thành công" } },
         },
       },
@@ -433,36 +424,34 @@ const swaggerOptions = {
           responses: { "200": { description: "Thành công" } },
         },
       },
-      "/api/QuanLyKhoaHoc/GhiDanhKhoaHoc": {
-        post: {
-          summary: "Giáo vụ ghi danh khóa học cho Học viên",
+      "/api/QuanLyKhoaHoc/LayThongTinKhoaHoc": {
+        get: {
+          summary: "Lấy thông tin chi tiết khóa học",
           tags: ["QuanLyKhoaHoc"],
-          security: [{ bearerAuth: [] }],
-          requestBody: {
-            required: true,
-            content: {
-              "application/json": {
-                schema: { $ref: "#/components/schemas/ThongTinDangKy" },
-              },
+          parameters: [
+            {
+              name: "maKhoaHoc",
+              in: "query",
+              required: true,
+              schema: { type: "string" },
             },
-          },
-          responses: { "200": { description: "Ghi danh thành công" } },
+          ],
+          responses: { "200": { description: "Thành công" } },
         },
       },
-      "/api/QuanLyKhoaHoc/HuyGhiDanh": {
-        post: {
-          summary: "Hủy ghi danh khóa học",
+      "/api/QuanLyKhoaHoc/LayThongTinHocVienKhoaHoc": {
+        get: {
+          summary: "Lấy thông tin học viên khóa học",
           tags: ["QuanLyKhoaHoc"],
-          security: [{ bearerAuth: [] }],
-          requestBody: {
-            required: true,
-            content: {
-              "application/json": {
-                schema: { $ref: "#/components/schemas/ThongTinDangKy" },
-              },
+          parameters: [
+            {
+              name: "maKhoaHoc",
+              in: "query",
+              required: true,
+              schema: { type: "string" },
             },
-          },
-          responses: { "200": { description: "Hủy thành công" } },
+          ],
+          responses: { "200": { description: "Thành công" } },
         },
       },
       "/api/QuanLyKhoaHoc/ThemKhoaHoc": {
@@ -513,6 +502,22 @@ const swaggerOptions = {
           responses: { "200": { description: "Thành công" } },
         },
       },
+      "/api/QuanLyKhoaHoc/GhiDanhKhoaHoc": {
+        post: {
+          summary: "Giáo vụ ghi danh khóa học cho Học viên",
+          tags: ["QuanLyKhoaHoc"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: { $ref: "#/components/schemas/ThongTinDangKy" },
+              },
+            },
+          },
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
       "/api/QuanLyKhoaHoc/DangKyKhoaHoc": {
         post: {
           summary: "Đăng ký khóa học",
@@ -523,6 +528,22 @@ const swaggerOptions = {
             content: {
               "application/json": {
                 schema: { $ref: "#/components/schemas/MaKhoaHocVM" },
+              },
+            },
+          },
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyKhoaHoc/HuyGhiDanh": {
+        post: {
+          summary: "Hủy ghi danh khóa học",
+          tags: ["QuanLyKhoaHoc"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: { $ref: "#/components/schemas/ThongTinDangKy" },
               },
             },
           },
@@ -551,6 +572,84 @@ const swaggerOptions = {
           responses: { "200": { description: "Thành công" } },
         },
       },
+      "/api/QuanLyKhoaHoc/demo": {
+        put: {
+          summary: "Demo",
+          tags: ["QuanLyKhoaHoc"],
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyKhoaHoc/CapNhatKhoaHocUpload": {
+        post: {
+          summary: "Cập nhật khóa học + Upload",
+          tags: ["QuanLyKhoaHoc"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "multipart/form-data": {
+                schema: {
+                  type: "object",
+                  properties: {
+                    maKhoaHoc: { type: "string" },
+                    tenKhoaHoc: { type: "string" },
+                    biDanh: { type: "string" },
+                    moTa: { type: "string" },
+                    maDanhMuc: { type: "string" },
+                    hinhAnh: { type: "string", format: "binary" },
+                  },
+                },
+              },
+            },
+          },
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyKhoaHoc/ThemKhoaHocUploadHinh": {
+        post: {
+          summary: "Thêm khóa học + Upload",
+          tags: ["QuanLyKhoaHoc"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "multipart/form-data": {
+                schema: {
+                  type: "object",
+                  properties: {
+                    maKhoaHoc: { type: "string" },
+                    tenKhoaHoc: { type: "string" },
+                    biDanh: { type: "string" },
+                    moTa: { type: "string" },
+                    maDanhMuc: { type: "string" },
+                    hinhAnh: { type: "string", format: "binary" },
+                  },
+                },
+              },
+            },
+          },
+          responses: { "201": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyKhoaHoc": {
+        post: {
+          summary: "Thêm khóa học (Alternative)",
+          tags: ["QuanLyKhoaHoc"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: { $ref: "#/components/schemas/KhoaHocModel" },
+              },
+            },
+          },
+          responses: { "201": { description: "Thành công" } },
+        },
+      },
+      // ===================================
+      // KẾT THÚC CỤM QUAN LÝ KHÓA HỌC
+      // ===================================
     },
   },
   apis: [],
