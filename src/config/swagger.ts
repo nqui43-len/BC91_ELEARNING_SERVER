@@ -95,19 +95,11 @@ const swaggerOptions = {
     },
     paths: {
       // --- SWAGGER QUẢN LÝ NGƯỜI DÙNG ---
-      "/api/QuanLyNguoiDung/DangKy": {
-        post: {
-          summary: "Học viên tự đăng ký",
+      "/api/QuanLyNguoiDung/LayDanhSachLoaiNguoiDung": {
+        get: {
+          summary: "Lấy danh sách loại người dùng",
           tags: ["QuanLyNguoiDung"],
-          requestBody: {
-            required: true,
-            content: {
-              "application/json": {
-                schema: { $ref: "#/components/schemas/NguoiDungVMM" },
-              },
-            },
-          },
-          responses: { "201": { description: "Thành công" } },
+          responses: { "200": { description: "Thành công" } },
         },
       },
       "/api/QuanLyNguoiDung/DangNhap": {
@@ -125,6 +117,31 @@ const swaggerOptions = {
           responses: { "200": { description: "Thành công" } },
         },
       },
+      "/api/QuanLyNguoiDung/DangKy": {
+        post: {
+          summary: "Học viên tự đăng ký",
+          tags: ["QuanLyNguoiDung"],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: { $ref: "#/components/schemas/NguoiDungVMM" },
+              },
+            },
+          },
+          responses: { "201": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/ThongTinNguoiDung": {
+        post: {
+          summary: "Lấy thông tin của một người dùng bất kỳ",
+          tags: ["QuanLyNguoiDung"],
+          parameters: [
+            { name: "taiKhoan", in: "query", schema: { type: "string" } },
+          ],
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
       "/api/QuanLyNguoiDung/LayDanhSachNguoiDung": {
         get: {
           summary: "Lấy danh sách người dùng",
@@ -132,6 +149,56 @@ const swaggerOptions = {
           parameters: [
             { name: "tuKhoa", in: "query", schema: { type: "string" } },
           ],
+          responses: { "200": { description: "Thành công" } },
+        },
+      }, 
+      "/api/QuanLyNguoiDung/LayDanhSachNguoiDung_PhanTrang": {
+        get: {
+          summary: "Lấy danh sách người dùng phân trang",
+          tags: ["QuanLyNguoiDung"],
+          parameters: [
+            {
+              name: "tuKhoa",
+              in: "query",
+              schema: { type: "string" },
+              description: "Tìm kiếm theo họ tên",
+            },
+            {
+              name: "page",
+              in: "query",
+              schema: { type: "integer", default: 1 },
+              description: "Số trang",
+            },
+            {
+              name: "pageSize",
+              in: "query",
+              schema: { type: "integer", default: 10 },
+              description: "Số phần tử trên trang",
+            },
+          ],
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/TimKiemNguoiDung": {
+        get: {
+          summary: "Tìm kiếm người dùng",
+          tags: ["QuanLyNguoiDung"],
+          parameters: [
+            {
+              name: "tuKhoa",
+              in: "query",
+              required: true,
+              schema: { type: "string" },
+            },
+          ],
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/ThongTinTaiKhoan": {
+        post: {
+          summary: "Lấy thông tin tài khoản (Yêu cầu đăng nhập)",
+          tags: ["QuanLyNguoiDung"],
+          security: [{ bearerAuth: [] }],
           responses: { "200": { description: "Thành công" } },
         },
       },
@@ -183,6 +250,120 @@ const swaggerOptions = {
           responses: { "200": { description: "Thành công" } },
         },
       },
+      "/api/QuanLyNguoiDung/LayDanhSachKhoaHocChuaGhiDanh": {
+        post: {
+          summary: "Lấy danh sách khóa học người dùng chưa ghi danh",
+          tags: ["QuanLyNguoiDung"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: {
+                  type: "object",
+                  properties: { taiKhoan: { type: "string" } },
+                },
+              },
+            },
+          },
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/LayDanhSachKhoaHocChoXetDuyet": {
+        post: {
+          summary: "Lấy danh sách khóa học chờ xét duyệt",
+          tags: ["QuanLyNguoiDung"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: {
+                  type: "object",
+                  properties: { taiKhoan: { type: "string" } },
+                },
+              },
+            },
+          },
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/LayDanhSachKhoaHocDaXetDuyet": {
+        post: {
+          summary: "Lấy danh sách khóa học đã xét duyệt",
+          tags: ["QuanLyNguoiDung"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: {
+                  type: "object",
+                  properties: { taiKhoan: { type: "string" } },
+                },
+              },
+            },
+          },
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/LayDanhSachNguoiDungChuaGhiDanh": {
+        post: {
+          summary: "Lấy danh sách người dùng chưa ghi danh khóa học",
+          tags: ["QuanLyNguoiDung"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: {
+                  type: "object",
+                  properties: { maKhoaHoc: { type: "string" } },
+                },
+              },
+            },
+          },
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/LayDanhSachHocVienChoXetDuyet": {
+        post: {
+          summary: "Lấy danh sách học viên chờ xét duyệt",
+          tags: ["QuanLyNguoiDung"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: {
+                  type: "object",
+                  properties: { maKhoaHoc: { type: "string" } },
+                },
+              },
+            },
+          },
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/LayDanhSachHocVienKhoaHoc": {
+        post: {
+          summary: "Lấy danh sách học viên đã tham gia khóa học",
+          tags: ["QuanLyNguoiDung"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: {
+                  type: "object",
+                  properties: { maKhoaHoc: { type: "string" } },
+                },
+              },
+            },
+          },
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
 
       // --- SWAGGER QUẢN LÝ KHÓA HỌC ---
       "/api/QuanLyKhoaHoc/LayDanhMucKhoaHoc": {
@@ -200,6 +381,88 @@ const swaggerOptions = {
             { name: "tenKhoaHoc", in: "query", schema: { type: "string" } },
           ],
           responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyKhoaHoc/LayThongTinKhoaHoc": {
+        get: {
+          summary: "Lấy thông tin chi tiết khóa học",
+          tags: ["QuanLyKhoaHoc"],
+          parameters: [
+            {
+              name: "maKhoaHoc",
+              in: "query",
+              required: true,
+              schema: { type: "string" },
+            },
+          ],
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyKhoaHoc/LayKhoaHocTheoDanhMuc": {
+        get: {
+          summary: "Lấy khóa học theo danh mục",
+          tags: ["QuanLyKhoaHoc"],
+          parameters: [
+            {
+              name: "maDanhMuc",
+              in: "query",
+              required: true,
+              schema: { type: "string" },
+            },
+          ],
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyKhoaHoc/LayDanhSachKhoaHoc_PhanTrang": {
+        get: {
+          summary: "Lấy danh sách khóa học phân trang",
+          tags: ["QuanLyKhoaHoc"],
+          parameters: [
+            { name: "tenKhoaHoc", in: "query", schema: { type: "string" } },
+            {
+              name: "page",
+              in: "query",
+              schema: { type: "integer", default: 1 },
+            },
+            {
+              name: "pageSize",
+              in: "query",
+              schema: { type: "integer", default: 10 },
+            },
+          ],
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyKhoaHoc/GhiDanhKhoaHoc": {
+        post: {
+          summary: "Giáo vụ ghi danh khóa học cho Học viên",
+          tags: ["QuanLyKhoaHoc"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: { $ref: "#/components/schemas/ThongTinDangKy" },
+              },
+            },
+          },
+          responses: { "200": { description: "Ghi danh thành công" } },
+        },
+      },
+      "/api/QuanLyKhoaHoc/HuyGhiDanh": {
+        post: {
+          summary: "Hủy ghi danh khóa học",
+          tags: ["QuanLyKhoaHoc"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: { $ref: "#/components/schemas/ThongTinDangKy" },
+              },
+            },
+          },
+          responses: { "200": { description: "Hủy thành công" } },
         },
       },
       "/api/QuanLyKhoaHoc/ThemKhoaHoc": {
