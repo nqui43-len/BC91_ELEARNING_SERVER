@@ -109,280 +109,8 @@ const swaggerOptions = {
       },
     },
     paths: {
-      // --- SWAGGER QUẢN LÝ NGƯỜI DÙNG ---
-      "/api/QuanLyNguoiDung/LayDanhSachLoaiNguoiDung": {
-        get: {
-          summary: "Lấy danh sách loại người dùng",
-          tags: ["QuanLyNguoiDung"],
-          responses: { "200": { description: "Thành công" } },
-        },
-      },
-      "/api/QuanLyNguoiDung/DangNhap": {
-        post: {
-          summary: "Đăng nhập",
-          tags: ["QuanLyNguoiDung"],
-          requestBody: {
-            required: true,
-            content: {
-              "application/json": {
-                schema: { $ref: "#/components/schemas/ThongTinDangNhap" },
-              },
-            },
-          },
-          responses: { "200": { description: "Thành công" } },
-        },
-      },
-      "/api/QuanLyNguoiDung/DangKy": {
-        post: {
-          summary: "Học viên tự đăng ký",
-          tags: ["QuanLyNguoiDung"],
-          requestBody: {
-            required: true,
-            content: {
-              "application/json": {
-                schema: { $ref: "#/components/schemas/NguoiDungVMM" },
-              },
-            },
-          },
-          responses: { "201": { description: "Thành công" } },
-        },
-      },
-      "/api/QuanLyNguoiDung/ThongTinNguoiDung": {
-        post: {
-          summary: "Lấy thông tin của một người dùng bất kỳ",
-          tags: ["QuanLyNguoiDung"],
-          parameters: [
-            { name: "taiKhoan", in: "query", schema: { type: "string" } },
-          ],
-          responses: { "200": { description: "Thành công" } },
-        },
-      },
-      "/api/QuanLyNguoiDung/LayDanhSachNguoiDung": {
-        get: {
-          summary: "Lấy danh sách người dùng",
-          tags: ["QuanLyNguoiDung"],
-          parameters: [
-            { name: "tuKhoa", in: "query", schema: { type: "string" } },
-          ],
-          responses: { "200": { description: "Thành công" } },
-        },
-      },
-      "/api/QuanLyNguoiDung/LayDanhSachNguoiDung_PhanTrang": {
-        get: {
-          summary: "Lấy danh sách người dùng phân trang",
-          tags: ["QuanLyNguoiDung"],
-          parameters: [
-            {
-              name: "tuKhoa",
-              in: "query",
-              schema: { type: "string" },
-              description: "Tìm kiếm theo họ tên",
-            },
-            {
-              name: "page",
-              in: "query",
-              schema: { type: "integer", default: 1 },
-              description: "Số trang",
-            },
-            {
-              name: "pageSize",
-              in: "query",
-              schema: { type: "integer", default: 10 },
-              description: "Số phần tử trên trang",
-            },
-          ],
-          responses: { "200": { description: "Thành công" } },
-        },
-      },
-      "/api/QuanLyNguoiDung/TimKiemNguoiDung": {
-        get: {
-          summary: "Tìm kiếm người dùng",
-          tags: ["QuanLyNguoiDung"],
-          parameters: [
-            {
-              name: "tuKhoa",
-              in: "query",
-              required: true,
-              schema: { type: "string" },
-            },
-          ],
-          responses: { "200": { description: "Thành công" } },
-        },
-      },
-      "/api/QuanLyNguoiDung/ThongTinTaiKhoan": {
-        post: {
-          summary: "Lấy thông tin tài khoản (Yêu cầu đăng nhập)",
-          tags: ["QuanLyNguoiDung"],
-          security: [{ bearerAuth: [] }],
-          responses: { "200": { description: "Thành công" } },
-        },
-      },
-      "/api/QuanLyNguoiDung/ThemNguoiDung": {
-        post: {
-          summary: "Thêm người dùng (Giáo vụ)",
-          tags: ["QuanLyNguoiDung"],
-          security: [{ bearerAuth: [] }],
-          requestBody: {
-            required: true,
-            content: {
-              "application/json": {
-                schema: { $ref: "#/components/schemas/NguoiDungVM" },
-              },
-            },
-          },
-          responses: { "201": { description: "Thành công" } },
-        },
-      },
-      "/api/QuanLyNguoiDung/CapNhatThongTinNguoiDung": {
-        put: {
-          summary: "Cập nhật thông tin (Giáo vụ)",
-          tags: ["QuanLyNguoiDung"],
-          security: [{ bearerAuth: [] }],
-          requestBody: {
-            required: true,
-            content: {
-              "application/json": {
-                schema: { $ref: "#/components/schemas/NguoiDungVM" },
-              },
-            },
-          },
-          responses: { "200": { description: "Thành công" } },
-        },
-      },
-      "/api/QuanLyNguoiDung/XoaNguoiDung": {
-        delete: {
-          summary: "Xóa người dùng (Giáo vụ)",
-          tags: ["QuanLyNguoiDung"],
-          security: [{ bearerAuth: [] }],
-          parameters: [
-            {
-              name: "TaiKhoan",
-              in: "query",
-              required: true,
-              schema: { type: "string" },
-            },
-          ],
-          responses: { "200": { description: "Thành công" } },
-        },
-      },
-      "/api/QuanLyNguoiDung/LayDanhSachKhoaHocChuaGhiDanh": {
-        post: {
-          summary: "Lấy danh sách khóa học người dùng chưa ghi danh",
-          tags: ["QuanLyNguoiDung"],
-          security: [{ bearerAuth: [] }],
-          requestBody: {
-            required: true,
-            content: {
-              "application/json": {
-                schema: {
-                  type: "object",
-                  properties: { taiKhoan: { type: "string" } },
-                },
-              },
-            },
-          },
-          responses: { "200": { description: "Thành công" } },
-        },
-      },
-      "/api/QuanLyNguoiDung/LayDanhSachKhoaHocChoXetDuyet": {
-        post: {
-          summary: "Lấy danh sách khóa học chờ xét duyệt",
-          tags: ["QuanLyNguoiDung"],
-          security: [{ bearerAuth: [] }],
-          requestBody: {
-            required: true,
-            content: {
-              "application/json": {
-                schema: {
-                  type: "object",
-                  properties: { taiKhoan: { type: "string" } },
-                },
-              },
-            },
-          },
-          responses: { "200": { description: "Thành công" } },
-        },
-      },
-      "/api/QuanLyNguoiDung/LayDanhSachKhoaHocDaXetDuyet": {
-        post: {
-          summary: "Lấy danh sách khóa học đã xét duyệt",
-          tags: ["QuanLyNguoiDung"],
-          security: [{ bearerAuth: [] }],
-          requestBody: {
-            required: true,
-            content: {
-              "application/json": {
-                schema: {
-                  type: "object",
-                  properties: { taiKhoan: { type: "string" } },
-                },
-              },
-            },
-          },
-          responses: { "200": { description: "Thành công" } },
-        },
-      },
-      "/api/QuanLyNguoiDung/LayDanhSachNguoiDungChuaGhiDanh": {
-        post: {
-          summary: "Lấy danh sách người dùng chưa ghi danh khóa học",
-          tags: ["QuanLyNguoiDung"],
-          security: [{ bearerAuth: [] }],
-          requestBody: {
-            required: true,
-            content: {
-              "application/json": {
-                schema: {
-                  type: "object",
-                  properties: { maKhoaHoc: { type: "string" } },
-                },
-              },
-            },
-          },
-          responses: { "200": { description: "Thành công" } },
-        },
-      },
-      "/api/QuanLyNguoiDung/LayDanhSachHocVienChoXetDuyet": {
-        post: {
-          summary: "Lấy danh sách học viên chờ xét duyệt",
-          tags: ["QuanLyNguoiDung"],
-          security: [{ bearerAuth: [] }],
-          requestBody: {
-            required: true,
-            content: {
-              "application/json": {
-                schema: {
-                  type: "object",
-                  properties: { maKhoaHoc: { type: "string" } },
-                },
-              },
-            },
-          },
-          responses: { "200": { description: "Thành công" } },
-        },
-      },
-      "/api/QuanLyNguoiDung/LayDanhSachHocVienKhoaHoc": {
-        post: {
-          summary: "Lấy danh sách học viên đã tham gia khóa học",
-          tags: ["QuanLyNguoiDung"],
-          security: [{ bearerAuth: [] }],
-          requestBody: {
-            required: true,
-            content: {
-              "application/json": {
-                schema: {
-                  type: "object",
-                  properties: { maKhoaHoc: { type: "string" } },
-                },
-              },
-            },
-          },
-          responses: { "200": { description: "Thành công" } },
-        },
-      },
-
       // ===================================
-      // BẮT ĐẦU CỤM: QUAN LÝ KHÓA HỌC
-      // ===================================
+      // QUẢN LÝ KHÓA HỌC
       "/api/QuanLyKhoaHoc/LayDanhSachKhoaHoc": {
         get: {
           summary: "Lấy danh sách khóa học",
@@ -658,9 +386,276 @@ const swaggerOptions = {
           responses: { "201": { description: "Thành công" } },
         },
       },
-      // ===================================
-      // KẾT THÚC CỤM QUAN LÝ KHÓA HỌC
-      // ===================================
+      // --- SWAGGER QUẢN LÝ NGƯỜI DÙNG ---
+      "/api/QuanLyNguoiDung/LayDanhSachLoaiNguoiDung": {
+        get: {
+          summary: "Lấy danh sách loại người dùng",
+          tags: ["QuanLyNguoiDung"],
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/DangNhap": {
+        post: {
+          summary: "Đăng nhập",
+          tags: ["QuanLyNguoiDung"],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: { $ref: "#/components/schemas/ThongTinDangNhap" },
+              },
+            },
+          },
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/DangKy": {
+        post: {
+          summary: "Học viên tự đăng ký",
+          tags: ["QuanLyNguoiDung"],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: { $ref: "#/components/schemas/NguoiDungVMM" },
+              },
+            },
+          },
+          responses: { "201": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/ThongTinNguoiDung": {
+        post: {
+          summary: "Lấy thông tin của một người dùng bất kỳ",
+          tags: ["QuanLyNguoiDung"],
+          parameters: [
+            { name: "taiKhoan", in: "query", schema: { type: "string" } },
+          ],
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/LayDanhSachNguoiDung": {
+        get: {
+          summary: "Lấy danh sách người dùng",
+          tags: ["QuanLyNguoiDung"],
+          parameters: [
+            { name: "tuKhoa", in: "query", schema: { type: "string" } },
+          ],
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/LayDanhSachNguoiDung_PhanTrang": {
+        get: {
+          summary: "Lấy danh sách người dùng phân trang",
+          tags: ["QuanLyNguoiDung"],
+          parameters: [
+            {
+              name: "tuKhoa",
+              in: "query",
+              schema: { type: "string" },
+              description: "Tìm kiếm theo họ tên",
+            },
+            {
+              name: "page",
+              in: "query",
+              schema: { type: "integer", default: 1 },
+              description: "Số trang",
+            },
+            {
+              name: "pageSize",
+              in: "query",
+              schema: { type: "integer", default: 10 },
+              description: "Số phần tử trên trang",
+            },
+          ],
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/TimKiemNguoiDung": {
+        get: {
+          summary: "Tìm kiếm người dùng",
+          tags: ["QuanLyNguoiDung"],
+          parameters: [
+            {
+              name: "tuKhoa",
+              in: "query",
+              required: true,
+              schema: { type: "string" },
+            },
+          ],
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/ThongTinTaiKhoan": {
+        post: {
+          summary: "Lấy thông tin tài khoản (Yêu cầu đăng nhập)",
+          tags: ["QuanLyNguoiDung"],
+          security: [{ bearerAuth: [] }],
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/ThemNguoiDung": {
+        post: {
+          summary: "Thêm người dùng (Giáo vụ)",
+          tags: ["QuanLyNguoiDung"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: { $ref: "#/components/schemas/NguoiDungVM" },
+              },
+            },
+          },
+          responses: { "201": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/CapNhatThongTinNguoiDung": {
+        put: {
+          summary: "Cập nhật thông tin (Giáo vụ)",
+          tags: ["QuanLyNguoiDung"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: { $ref: "#/components/schemas/NguoiDungVM" },
+              },
+            },
+          },
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/XoaNguoiDung": {
+        delete: {
+          summary: "Xóa người dùng (Giáo vụ)",
+          tags: ["QuanLyNguoiDung"],
+          security: [{ bearerAuth: [] }],
+          parameters: [
+            {
+              name: "TaiKhoan",
+              in: "query",
+              required: true,
+              schema: { type: "string" },
+            },
+          ],
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/LayDanhSachKhoaHocChuaGhiDanh": {
+        post: {
+          summary: "Lấy danh sách khóa học người dùng chưa ghi danh",
+          tags: ["QuanLyNguoiDung"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: {
+                  type: "object",
+                  properties: { taiKhoan: { type: "string" } },
+                },
+              },
+            },
+          },
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/LayDanhSachKhoaHocChoXetDuyet": {
+        post: {
+          summary: "Lấy danh sách khóa học chờ xét duyệt",
+          tags: ["QuanLyNguoiDung"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: {
+                  type: "object",
+                  properties: { taiKhoan: { type: "string" } },
+                },
+              },
+            },
+          },
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/LayDanhSachKhoaHocDaXetDuyet": {
+        post: {
+          summary: "Lấy danh sách khóa học đã xét duyệt",
+          tags: ["QuanLyNguoiDung"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: {
+                  type: "object",
+                  properties: { taiKhoan: { type: "string" } },
+                },
+              },
+            },
+          },
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/LayDanhSachNguoiDungChuaGhiDanh": {
+        post: {
+          summary: "Lấy danh sách người dùng chưa ghi danh khóa học",
+          tags: ["QuanLyNguoiDung"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: {
+                  type: "object",
+                  properties: { maKhoaHoc: { type: "string" } },
+                },
+              },
+            },
+          },
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/LayDanhSachHocVienChoXetDuyet": {
+        post: {
+          summary: "Lấy danh sách học viên chờ xét duyệt",
+          tags: ["QuanLyNguoiDung"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: {
+                  type: "object",
+                  properties: { maKhoaHoc: { type: "string" } },
+                },
+              },
+            },
+          },
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
+      "/api/QuanLyNguoiDung/LayDanhSachHocVienKhoaHoc": {
+        post: {
+          summary: "Lấy danh sách học viên đã tham gia khóa học",
+          tags: ["QuanLyNguoiDung"],
+          security: [{ bearerAuth: [] }],
+          requestBody: {
+            required: true,
+            content: {
+              "application/json": {
+                schema: {
+                  type: "object",
+                  properties: { maKhoaHoc: { type: "string" } },
+                },
+              },
+            },
+          },
+          responses: { "200": { description: "Thành công" } },
+        },
+      },
     },
   },
   apis: [],
