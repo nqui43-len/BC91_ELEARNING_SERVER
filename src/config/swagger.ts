@@ -10,13 +10,24 @@ const swaggerOptions = {
       version: "1.0.0",
       description: "Tài liệu API chuẩn Swagger dành cho Team Frontend",
     },
-    servers: [
-      { url: "http://localhost:8080", description: "Local Development Server" },
-      {
-        url: "https://elearning-api-bc91.onrender.com",
-        description: "Production Server",
-      },
-    ],
+    servers:
+      process.env.NODE_ENV === "production"
+        ? [
+            {
+              url: "https://elearning-api-bc91.onrender.com",
+              description: "Production Server",
+            },
+          ]
+        : [
+            {
+              url: "http://localhost:8080",
+              description: "Local Development Server",
+            },
+            {
+              url: "https://elearning-api-bc91.onrender.com",
+              description: "Production Server",
+            },
+          ],
     components: {
       securitySchemes: {
         bearerAuth: { type: "http", scheme: "bearer", bearerFormat: "JWT" },
