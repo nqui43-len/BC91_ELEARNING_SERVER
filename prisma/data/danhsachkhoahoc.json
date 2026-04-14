@@ -1,0 +1,4181 @@
+[
+  {
+    "maKhoaHoc": "",
+    "biDanh": "javascriptt12",
+    "tenKhoaHoc": "Javascriptt12",
+    "moTa": "tuyệt cà là vời12",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/javascriptt12.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "02/02/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "Testing",
+      "hoTen": "admin",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": ".100",
+    "biDanh": "-100",
+    "tenKhoaHoc": ".100",
+    "moTa": "",
+    "luotXem": 4,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/-100.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "21/03/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": ".100",
+      "hoTen": ".100",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "000",
+    "biDanh": "c-",
+    "tenKhoaHoc": "C++",
+    "moTa": "âsâ",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/c-_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "07/03/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "000123456",
+    "biDanh": "khoa-hoc-moi",
+    "tenKhoaHoc": "Khóa học mới",
+    "moTa": "<blockquote><p>Khóa học mới</p></blockquote>",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/khoa-hoc-moi_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "12/02/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "01230123",
+    "biDanh": "editkhoahoc",
+    "tenKhoaHoc": "EditKhoaHoc",
+    "moTa": "<p>NGON</p>",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/editkhoahoc.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "10/02/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "binnhutlk",
+      "hoTen": "Trần Quốc Nhựt haha",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "09876788",
+    "biDanh": "python-thieu-nhi",
+    "tenKhoaHoc": "Python thiếu nhi",
+    "moTa": "<p>Python&nbsp;</p>",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/python-thieu-nhi_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "12/02/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "100999",
+    "biDanh": "javascript-nang-cao-moi",
+    "tenKhoaHoc": "Javascript nâng cao mới",
+    "moTa": "<p>Khoá học hay</p>",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/javascript-nang-cao-moi_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "04/02/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "1009991",
+    "biDanh": "tai",
+    "tenKhoaHoc": "tai",
+    "moTa": "hay lắm luôn",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/tai.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "05/03/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "hoang2k4",
+      "hoTen": "Hoàng Nguyễn Văn",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "10099922",
+    "biDanh": "nodejs001123-fdsfsdffds",
+    "tenKhoaHoc": "NodeJS001123 fdsfsdffds",
+    "moTa": "học tốt lắm",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/nodejs001123-fdsfsdffds.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "09/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "hoang2k4",
+      "hoTen": "Hoàng Nguyễn Văn",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "100999999",
+    "biDanh": "doraemon",
+    "tenKhoaHoc": "Doraemon",
+    "moTa": "Hay",
+    "luotXem": 555,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/doraemon.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "20/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "baoan12",
+      "hoTen": "tranbaoan12",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "1111111111",
+    "biDanh": "toan",
+    "tenKhoaHoc": "Toán",
+    "moTa": "22222",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/toan.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "13/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "test01",
+      "hoTen": "tester100 updated",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "111111111111",
+    "biDanh": "javascript-nang-cao-101",
+    "tenKhoaHoc": "Javascript nâng cao 101",
+    "moTa": "<p>rất hay</p>",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/javascript-nang-cao-101_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "03/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "11205",
+    "biDanh": "machine-learning",
+    "tenKhoaHoc": "Machine Learning",
+    "moTa": "mo tawwwwwwwwwwwwwwwwwwwwwwwwwwww",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/machine-learning_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "01/01/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "1233123",
+    "biDanh": "javascript-nang-caoqueqwe",
+    "tenKhoaHoc": "Javascript nâng caoqưeqwe",
+    "moTa": "khoa hoc top ",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/javascript-nang-caoqueqwe_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "16/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin7891",
+      "hoTen": "hoang van soan",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "1233211233211",
+    "biDanh": "js321",
+    "tenKhoaHoc": "JS321",
+    "moTa": "<p>Good</p>",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/js321_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "12/02/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "123333333",
+    "biDanh": "javascript-nang-123",
+    "tenKhoaHoc": "Javascript nâng 123",
+    "moTa": "hay",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/javascript-nang-123_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "03/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin7891",
+      "hoTen": "hoang van soan",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "12343554654546456456",
+    "biDanh": "214fbfdxgfdgdg",
+    "tenKhoaHoc": "214fbfđxgfdgdg",
+    "moTa": "alo co do khôn",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/214fbfdxgfdgdg_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "02/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin7891",
+      "hoTen": "hoang van soan",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "12344321",
+    "biDanh": "frontend",
+    "tenKhoaHoc": "frontend",
+    "moTa": "<p>Tuyệt vời lun</p>",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/frontend_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "16/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "binnhutlk",
+      "hoTen": "Trần Quốc Nhựt haha",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "12345",
+    "biDanh": "javascripttt",
+    "tenKhoaHoc": "Javascripttt",
+    "moTa": "tuyệt cà là vời",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/javascripttt_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "27/09/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin7891",
+      "hoTen": "hoang van soan",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "123456736",
+    "biDanh": "backend-54",
+    "tenKhoaHoc": "Backend 54",
+    "moTa": "TEST",
+    "luotXem": 1000,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/backend-54.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "19/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "hoang2k4",
+      "hoTen": "Hoàng Nguyễn Văn",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "1234567890123",
+    "biDanh": "test-frontend",
+    "tenKhoaHoc": "Test FrontEnd",
+    "moTa": "Test thôi",
+    "luotXem": 20,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/test-frontend.png",
+    "maNhom": "GP01",
+    "ngayTao": "15/11/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "testtest",
+      "hoTen": "aaa",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "123456y",
+    "biDanh": "backend9",
+    "tenKhoaHoc": "Backend9",
+    "moTa": "hhhhhhhhhhhh",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/backend9.jpeg",
+    "maNhom": "GP01",
+    "ngayTao": "03/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "1234",
+      "hoTen": "bqưeqw",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "123haha",
+    "biDanh": "backend-hahah",
+    "tenKhoaHoc": "BackEnd hahah",
+    "moTa": "haha",
+    "luotXem": 2,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/backend-hahah.jpeg",
+    "maNhom": "GP01",
+    "ngayTao": "25/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "adminn1",
+      "hoTen": "Admin",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "13454",
+    "biDanh": "backend-nodejs-52",
+    "tenKhoaHoc": "Backend NodeJS 52",
+    "moTa": "Khóa học hay, dạy trọng tâm vào ",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/backend-nodejs-52.jpeg",
+    "maNhom": "GP01",
+    "ngayTao": "22/03/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "adminhuy",
+      "hoTen": "Huy Admin",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "13485",
+    "biDanh": "fullstack-web-development",
+    "tenKhoaHoc": "Fullstack Web Development",
+    "moTa": "Khóa học hay, dạy trọng tâm vào ",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/fullstack-web-development_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "05/04/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "adminhuy",
+      "hoTen": "Huy Admin",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "15054",
+    "biDanh": "javascripthehe",
+    "tenKhoaHoc": "JavaScripthehe",
+    "moTa": "khándasdasd",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/javascripthehe_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "15/02/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin7891",
+      "hoTen": "hoang van soan",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "1525",
+    "biDanh": "javascript-nang-cao-cap-abc",
+    "tenKhoaHoc": "Javascript nâng cao cấp abc",
+    "moTa": "Javascript nâng cao cấp abc",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/javascript-nang-cao-cap-abc_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "05/01/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin7891",
+      "hoTen": "hoang van soan",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "1600",
+    "biDanh": "khoa-hoc-python-cho-nguoi-moi-bat-dau",
+    "tenKhoaHoc": "Khóa học python cho người mới bắt đầu",
+    "moTa": "Khóa học python cho người mới bắt đầu",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/khoa-hoc-python-cho-nguoi-moi-bat-dau_gp01.gif",
+    "maNhom": "gp01",
+    "ngayTao": "30/11/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "string",
+      "hoTen": "string",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "1601",
+    "biDanh": "khoa-hoc-python-cho-nguoi-moi-bat-dau",
+    "tenKhoaHoc": "Khóa học python cho người mới bắt đầu",
+    "moTa": "Khóa học python cho người mới bắt đầu",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/khoa-hoc-python-cho-nguoi-moi-bat-dau_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "11/11/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "alo",
+      "hoTen": "BC14 Đinh Gia Bảo",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "1605",
+    "biDanh": "asdasd",
+    "tenKhoaHoc": "asdasd",
+    "moTa": "asd",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/asdasd.gif",
+    "maNhom": "GP01",
+    "ngayTao": "26/12/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "huhi",
+      "hoTen": "ha há ha 123123",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "18739",
+    "biDanh": "javascript-nang-cao-cap-nhat",
+    "tenKhoaHoc": "Javascript nâng cao cấp nhất",
+    "moTa": "asdasdasdsa",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/javascript-nang-cao-cap-nhat_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "18/11/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "string",
+      "hoTen": "string",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "190191",
+    "biDanh": "noss",
+    "tenKhoaHoc": "NOSS",
+    "moTa": "k co gi",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/noss.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "02/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin7891",
+      "hoTen": "hoang van soan",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "2232221111",
+    "biDanh": "khoazzssassd",
+    "tenKhoaHoc": "KHOAzzssassd",
+    "moTa": "KHÓA HỌC BACKENDds",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/khoazzssassd.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "19/08/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "trucadmin ",
+      "hoTen": "trucadmin ",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "223322",
+    "biDanh": "khoahooctestimxxz",
+    "tenKhoaHoc": "KHOAHOOCTESTIMxxz",
+    "moTa": "KHOAHOCTESTIMGGG SAA ",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/khoahooctestimxxz_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "19/08/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "trucadmin ",
+      "hoTen": "trucadmin ",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "232223",
+    "biDanh": "for-bisboss",
+    "tenKhoaHoc": "For bisboss ",
+    "moTa": "For bisboss ",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/for-bisboss_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "25/08/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "trucadmin ",
+      "hoTen": "trucadmin ",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "23232ww",
+    "biDanh": "onechampcode223",
+    "tenKhoaHoc": "onechampcode223",
+    "moTa": "onechampcode223",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/onechampcode223_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "19/08/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "trucadmin ",
+      "hoTen": "trucadmin ",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "27082023",
+    "biDanh": "tu-duy-lap-trinh-21",
+    "tenKhoaHoc": "Tư duy lập trình 21",
+    "moTa": "vui vui hahahaa",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/tu-duy-lap-trinh-21.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "18/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "adminhuy",
+      "hoTen": "Huy Admin",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "300BAIHATTGQ2",
+    "biDanh": "300-bai-hat-thieu-nhi",
+    "tenKhoaHoc": "300 bài hát thiếu nhi",
+    "moTa": "Mô tả 300 bài hát thiếu nhi300 bài hát thiếu nhi300 bài hát thiếu nhi",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/300-bai-hat-thieu-nhi_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "13/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "giaovien01",
+      "hoTen": "Giáo Viên Test",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "3232211132",
+    "biDanh": "onechampcode",
+    "tenKhoaHoc": "onechampcode",
+    "moTa": "onechampcode",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/onechampcode_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "19/08/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "trucadmin ",
+      "hoTen": "trucadmin ",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "5342",
+    "biDanh": "fafasdfs-fasdfasd",
+    "tenKhoaHoc": "fafasdfs fasdfasd",
+    "moTa": "fdsafsdf ấdfasdfasd",
+    "luotXem": 120,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/fafasdfs-fasdfasd.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "17/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "hoang2k4",
+      "hoTen": "Hoàng Nguyễn Văn",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "644",
+    "biDanh": "anh-hoang",
+    "tenKhoaHoc": "anh hoang",
+    "moTa": "dfsdfasdfsd",
+    "luotXem": 121,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/anh-hoang.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "14/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "hoang2k4",
+      "hoTen": "Hoàng Nguyễn Văn",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "69696969",
+    "biDanh": "lap-trinh-nhu-1-thang-fa",
+    "tenKhoaHoc": "Lập trình như 1 thằng FA",
+    "moTa": "<p>ggwgehwuguwheguihewuighwuighwgewhuwiehgwuihgwghwuigewhuiegwhweuighwuigwhugiwhgiuwhgwuihgewghewiuwheguiwhgewihgewuigwehuiwhgwiuhguiegwhgwuiehewiughewgwhwehgwgeh</p>",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-nhu-1-thang-fa_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "06/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "123",
+      "hoTen": "Báo 34",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "86757",
+    "biDanh": "hfgdhd",
+    "tenKhoaHoc": "hfgdhd",
+    "moTa": "fdsgfdgfsdgsfd",
+    "luotXem": 121,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/hfgdhd.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "14/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "hoang2k4",
+      "hoTen": "Hoàng Nguyễn Văn",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "89430",
+    "biDanh": "javascript001",
+    "tenKhoaHoc": "JavaScript001",
+    "moTa": "adasdasdadskkkk",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/javascript001_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "09/04/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin7891",
+      "hoTen": "hoang van soan",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "9094",
+    "biDanh": "khoa-hoc-backend-java",
+    "tenKhoaHoc": "Khóa Học BackEnd Java",
+    "moTa": "Lập trình mobile, phát triển phầm mềm",
+    "luotXem": 121,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/khoa-hoc-backend-java.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "21/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "hoang2k4",
+      "hoTen": "Hoàng Nguyễn Văn",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "999999",
+    "biDanh": "frontend",
+    "tenKhoaHoc": "frontend",
+    "moTa": "<p>haha</p>",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/frontend_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "06/02/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "999DOAHOAHMR3",
+    "biDanh": "999-doa-hoa-hong-new",
+    "tenKhoaHoc": "999 đóa hoa hồng new",
+    "moTa": "Mô tả 999 đóa hoa hồng999 đóa hoa hồng999 đóa hoa hồng",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/999-doa-hoa-hong-new.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "14/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "giaovien01",
+      "hoTen": "Giáo Viên Test",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "A100",
+    "biDanh": "demo111",
+    "tenKhoaHoc": "Demo111",
+    "moTa": "khoa hoc sieu dinh cao",
+    "luotXem": 1000000,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/demo111.jpeg",
+    "maNhom": "GP01",
+    "ngayTao": "11/03/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "tuantran123",
+      "hoTen": "Trần văn Tuấn",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "A1234556",
+    "biDanh": "hoc-cho-no-gioi",
+    "tenKhoaHoc": "hoc cho no gioi",
+    "moTa": "hoc di cho gioi",
+    "luotXem": 10000,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/hoc-cho-no-gioi.png",
+    "maNhom": "GP01",
+    "ngayTao": "31/03/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "tuantran123",
+      "hoTen": "Trần văn Tuấn",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "aaaaa",
+    "biDanh": "strssdv",
+    "tenKhoaHoc": "strssdv",
+    "moTa": "string",
+    "luotXem": 2,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/strssdv.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "24/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "adminn1",
+      "hoTen": "Admin",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "Ab commodi magni com",
+    "biDanh": "velit-quia-aliquip-q",
+    "tenKhoaHoc": "Velit quia aliquip q",
+    "moTa": "Doloribus cupiditate",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/velit-quia-aliquip-q_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "07/03/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "ABC12345",
+    "biDanh": "khong-hoc-mec-me-do",
+    "tenKhoaHoc": "không học méc mẹ đó",
+    "moTa": "hayy",
+    "luotXem": 1000,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/khong-hoc-mec-me-do.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "05/01/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "sssss",
+      "hoTen": "Duis excepteur dolor",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "Aliquid quo a aut ac",
+    "biDanh": "sint-nihil-sint-quo",
+    "tenKhoaHoc": "Sint nihil sint quo ",
+    "moTa": "Nulla at voluptatem",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/sint-nihil-sint-quo_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "13/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "Amet sed exercitati",
+    "biDanh": "pariatur-sit-sed-qu",
+    "tenKhoaHoc": "Pariatur Sit sed qu",
+    "moTa": "Sint aut veritatis a",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/pariatur-sit-sed-qu_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "13/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "AUTARCHITE5LG",
+    "biDanh": "aut-architecto-labor",
+    "tenKhoaHoc": "Aut architecto labor",
+    "moTa": "Architecto culpa mol",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/aut-architecto-labor.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "13/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "giaovien01",
+      "hoTen": "Giáo Viên Test",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "BackEnd",
+    "biDanh": "giabao",
+    "tenKhoaHoc": "Giabao",
+    "moTa": "xin chao moi nguoi fffffffffffffffffffffffffffffffffffffffff",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/giabao.png",
+    "maNhom": "gp01",
+    "ngayTao": "02/12/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "gonobi",
+      "hoTen": "Bảo siêu cute",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "be",
+    "biDanh": "be",
+    "tenKhoaHoc": "be",
+    "moTa": "be",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/be_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "08/11/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "hunggv1",
+      "hoTen": "hunggv",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "BE_01",
+    "biDanh": "lap-trinh-backend",
+    "tenKhoaHoc": "Lập trình Backend",
+    "moTa": "Hướng dẫn xây dựng cơ sở dữ liệu từ cơ bản đến nâng cao",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-backend.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "15/04/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "newbie002",
+      "hoTen": "NewbieUpdateDataNow",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "BE0010",
+    "biDanh": "back-end-trung-cap",
+    "tenKhoaHoc": "Back End trung cấp",
+    "moTa": "ađáhákjdh",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/back-end-trung-cap_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "26/10/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "BE002",
+    "biDanh": "back-end-can-ban-01",
+    "tenKhoaHoc": "Back End Căn Bản 01",
+    "moTa": "Backend là những chức năng hỗ trợ hoạt động của một trang web hoặc ứng dụng mà người dùng không nhìn thấy được (hoặc có thể ví như đây là phần chìm của tảng băng). Nó có cơ chế hoạt động gần  giống như bộ não của con người, xử lý các yêu cầu, lệnh và chọn thông tin thích hợp để hiển thị trên màn hình. BackEnd của một trang web bao gồm ba thành phần: máy chủ, ứng dụng và cơ sở dữ liệu. Điều này cho phép trang web hoạt động hiệu quả và cung cấp cho người dùng thông tin chính xác nhanh chóng.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/back-end-can-ban-01_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "10/10/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "aabbcc123",
+      "hoTen": "Voluptas alias volup",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "BE004",
+    "biDanh": "back-end-can-ban-03",
+    "tenKhoaHoc": "Back End Căn Bản 03",
+    "moTa": "Backend là những chức năng hỗ trợ hoạt động của một trang web hoặc ứng dụng mà người dùng không nhìn thấy được (hoặc có thể ví như đây là phần chìm của tảng băng). Nó có cơ chế hoạt động gần  giống như bộ não của con người, xử lý các yêu cầu, lệnh và chọn thông tin thích hợp để hiển thị trên màn hình. BackEnd của một trang web bao gồm ba thành phần: máy chủ, ứng dụng và cơ sở dữ liệu. Điều này cho phép trang web hoạt động hiệu quả và cung cấp cho người dùng thông tin chính xác nhanh chóng.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/back-end-can-ban-03_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "10/10/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "BE005",
+    "biDanh": "back-end-can-ban-04",
+    "tenKhoaHoc": "Back End Căn Bản 04",
+    "moTa": "Backend là những chức năng hỗ trợ hoạt động của một trang web hoặc ứng dụng mà người dùng không nhìn thấy được (hoặc có thể ví như đây là phần chìm của tảng băng). Nó có cơ chế hoạt động gần  giống như bộ não của con người, xử lý các yêu cầu, lệnh và chọn thông tin thích hợp để hiển thị trên màn hình. BackEnd của một trang web bao gồm ba thành phần: máy chủ, ứng dụng và cơ sở dữ liệu. Điều này cho phép trang web hoạt động hiệu quả và cung cấp cho người dùng thông tin chính xác nhanh chóng.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/back-end-can-ban-04_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "10/10/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "BE2028",
+    "biDanh": "super-expressjssss",
+    "tenKhoaHoc": "Super ExpressJssss",
+    "moTa": "cục gạch backend zzzz",
+    "luotXem": 1230,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/super-expressjssss.string",
+    "maNhom": "GP01",
+    "ngayTao": "06/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "guldiusgvils",
+      "hoTen": "guldiusgvils",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "BE20282",
+    "biDanh": "super-nestjs",
+    "tenKhoaHoc": "Super Nestjs",
+    "moTa": "Cục gạch BE up",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/super-nestjs.jfif",
+    "maNhom": "GP01",
+    "ngayTao": "06/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "guldiusgvils",
+      "hoTen": "guldiusgvils",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "BE38611122",
+    "biDanh": "be38611122",
+    "tenKhoaHoc": "BE38611122",
+    "moTa": "BE38611122",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/be38611122.png",
+    "maNhom": "GP01",
+    "ngayTao": "05/01/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "kyupangjin",
+      "hoTen": "kyu pang jin",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "BE3861112223",
+    "biDanh": "be3861112223",
+    "tenKhoaHoc": "BE3861112223",
+    "moTa": "BE386111222",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/be3861112223.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "05/01/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "kyupangjin",
+      "hoTen": "kyu pang jin",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "Consectetur natus no",
+    "biDanh": "quas-qui-tempor-elig",
+    "tenKhoaHoc": "Quas qui tempor elig",
+    "moTa": "Nihil ut perferendis",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/quas-qui-tempor-elig_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "30/11/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "vuong@gmail.com",
+      "hoTen": "Vương Phạm",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "Consequatur ea ea qu",
+    "biDanh": "mollitia-a-eos-ipsa",
+    "tenKhoaHoc": "Mollitia a eos ipsa",
+    "moTa": "Dolore doloribus eiu",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/mollitia-a-eos-ipsa_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "02/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "adminnnn",
+      "hoTen": "sdcsdc",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "Culpa pariatur In o",
+    "biDanh": "enim-tempore-necess",
+    "tenKhoaHoc": "Enim tempore necess",
+    "moTa": "",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/enim-tempore-necess.png",
+    "maNhom": "GP01",
+    "ngayTao": "02/12/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "gonobi",
+      "hoTen": "Bảo siêu cute",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "Cường Đẹp Gái",
+    "biDanh": "cuong-dep-gai",
+    "tenKhoaHoc": "Cường Đẹp Gái",
+    "moTa": "Đây là khóa học của tôi, tôi là Cường, tôi yêu tất cả mọi người, Ai lớp youuuuu <3",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/cuong-dep-gai_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "24/08/2023",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin@",
+      "hoTen": "Admin@@",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "Cupiditate vel natus",
+    "biDanh": "nulla-est-officiis",
+    "tenKhoaHoc": "Nulla est officiis ",
+    "moTa": "Asperiores perferend",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/nulla-est-officiis_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "13/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "d",
+    "biDanh": "d",
+    "tenKhoaHoc": "d",
+    "moTa": "Error ut incididunt ",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/d_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "13/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "D123",
+    "biDanh": "lap-trinh-full-stack-123",
+    "tenKhoaHoc": "Lap Trinh Full Stack 123",
+    "moTa": "Khoa hoc nang caoo",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-full-stack-123.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "15/04/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "123",
+      "hoTen": "Báo 34",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "đâsdsadd",
+    "biDanh": "sakjndjsdf",
+    "tenKhoaHoc": "sakjndjsdf",
+    "moTa": "kjddsjdaksndkasn",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/sakjndjsdf_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "14/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin@",
+      "hoTen": "Admin@@",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "DD001",
+    "biDanh": "lap-trinh-di-dong",
+    "tenKhoaHoc": "Lập trình Di Động",
+    "moTa": "Lập trình viên mobile là những chuyên viên lập trình về công nghệ di động.  Ngành sử dụng ngôn ngữ lập trình (Java, C#,..) để viết, sáng tạo và phát triển các phần mềm nhằm gia tăng tiện ích cho thiết bị di động.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-di-dong_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "11/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "DD002",
+    "biDanh": "lap-trinh-di-dong-1",
+    "tenKhoaHoc": "Lập trình Di Động 1",
+    "moTa": "Lập trình viên mobile là những chuyên viên lập trình về công nghệ di động.  Ngành sử dụng ngôn ngữ lập trình (Java, C#,..) để viết, sáng tạo và phát triển các phần mềm nhằm gia tăng tiện ích cho thiết bị di động.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-di-dong-1_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "11/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "DD003",
+    "biDanh": "lap-trinh-di-dong-2",
+    "tenKhoaHoc": "Lập trình Di Động 2",
+    "moTa": "Lập trình viên mobile là những chuyên viên lập trình về công nghệ di động.  Ngành sử dụng ngôn ngữ lập trình (Java, C#,..) để viết, sáng tạo và phát triển các phần mềm nhằm gia tăng tiện ích cho thiết bị di động.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-di-dong-2_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "11/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "DD004",
+    "biDanh": "lap-trinh-di-dong-3",
+    "tenKhoaHoc": "Lập trình Di Động 3",
+    "moTa": "Lập trình viên mobile là những chuyên viên lập trình về công nghệ di động.  Ngành sử dụng ngôn ngữ lập trình (Java, C#,..) để viết, sáng tạo và phát triển các phần mềm nhằm gia tăng tiện ích cho thiết bị di động.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-di-dong-3_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "11/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "DD005",
+    "biDanh": "lap-trinh-di-dong-4",
+    "tenKhoaHoc": "Lập trình Di Động 4",
+    "moTa": "Lập trình viên mobile là những chuyên viên lập trình về công nghệ di động.  Ngành sử dụng ngôn ngữ lập trình (Java, C#,..) để viết, sáng tạo và phát triển các phần mềm nhằm gia tăng tiện ích cho thiết bị di động.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-di-dong-4_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "11/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "ddd",
+    "biDanh": "machine-learning",
+    "tenKhoaHoc": "Machine Learning",
+    "moTa": "aaaaaaaaaaaaaaaa",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/machine-learning_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "01/01/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "Deleniti fugit est ",
+    "biDanh": "nisi-et-necessitatib",
+    "tenKhoaHoc": "Nisi et necessitatib",
+    "moTa": "Ipsam iure natus ess",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/nisi-et-necessitatib_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "13/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "Doloremque ab ut in ",
+    "biDanh": "excepturi-minima-omn",
+    "tenKhoaHoc": "Excepturi minima omn",
+    "moTa": "",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/excepturi-minima-omn.png",
+    "maNhom": "GP01",
+    "ngayTao": "02/12/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "gonobi",
+      "hoTen": "Bảo siêu cute",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "DOLORESOLUTGK",
+    "biDanh": "dolore-soluta-doloru",
+    "tenKhoaHoc": "Dolore soluta doloru",
+    "moTa": "Reprehenderit sunt r",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/dolore-soluta-doloru_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "13/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "giaovien01",
+      "hoTen": "Giáo Viên Test",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "doremon113",
+    "biDanh": "doremon",
+    "tenKhoaHoc": "Doremon",
+    "moTa": "hihiihiihii",
+    "luotXem": 2,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/doremon.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "24/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "adminn1",
+      "hoTen": "Admin",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "DSADAS",
+    "biDanh": "dsadsad",
+    "tenKhoaHoc": "dsadsad",
+    "moTa": "zDasdsdsafs",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/dsadsad_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "06/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "Adm08",
+      "hoTen": "aa",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "duy55555",
+    "biDanh": "illo-accusamus-moles",
+    "tenKhoaHoc": "Illo accusamus moles",
+    "moTa": "Amet sequi soluta e",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/illo-accusamus-moles_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "13/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "hunggv1",
+      "hoTen": "hunggv",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "eeee",
+    "biDanh": "eeeee",
+    "tenKhoaHoc": "eeeee",
+    "moTa": "4",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/eeeee_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "04/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "test01",
+      "hoTen": "tester100 updated",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "Elit eu laborum pro",
+    "biDanh": "iure-porro-iste-et-d",
+    "tenKhoaHoc": "Iure porro iste et d",
+    "moTa": "Quo aut in officia n",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/iure-porro-iste-et-d_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "02/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "adminnnn",
+      "hoTen": "sdcsdc",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "Enim cupidatat volup",
+    "biDanh": "sapiente-necessitati",
+    "tenKhoaHoc": "Sapiente necessitati",
+    "moTa": "Sunt sed eum voluptggggggggggggggg",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/sapiente-necessitati_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "01/01/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "Enim ut ex cupidatat",
+    "biDanh": "eos-consequatur-qu",
+    "tenKhoaHoc": "Eos consequatur Qu",
+    "moTa": "Deserunt saepe saepe",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/eos-consequatur-qu_gp01.jpeg",
+    "maNhom": "GP01",
+    "ngayTao": "13/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "Est consequatur Ips",
+    "biDanh": "quae-praesentium-und",
+    "tenKhoaHoc": "Quae praesentium und",
+    "moTa": "Sint velit sed optio",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/quae-praesentium-und_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "13/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "Est ut ea possimus ",
+    "biDanh": "obcaecati-quos-eius",
+    "tenKhoaHoc": "Obcaecati quos eius ",
+    "moTa": "Dolore enim velit ni",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/obcaecati-quos-eius_gp01.jpeg",
+    "maNhom": "GP01",
+    "ngayTao": "13/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "Et aliquid libero im",
+    "biDanh": "laborum-nulla-incidi",
+    "tenKhoaHoc": "Laborum nulla incidi",
+    "moTa": "Eiusmod doloribus ni",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/laborum-nulla-incidi_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "13/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "Et laboris omnis rem",
+    "biDanh": "dolores-corrupti-se",
+    "tenKhoaHoc": "Dolores corrupti se",
+    "moTa": "HÁ HÁ",
+    "luotXem": 8888,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/dolores-corrupti-se.png",
+    "maNhom": "GP01",
+    "ngayTao": "08/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "xyz123",
+      "hoTen": "ba gà",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "Eveniet tempor eu o",
+    "biDanh": "culpa-nisi-consequa",
+    "tenKhoaHoc": "Culpa nisi consequa",
+    "moTa": "Et earum qui molesti",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/culpa-nisi-consequa_gp01.jpeg",
+    "maNhom": "GP01",
+    "ngayTao": "13/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "fasdf",
+    "biDanh": "aeee222",
+    "tenKhoaHoc": "aeee222",
+    "moTa": "asdfasd sd asd asd asd asd sfa f",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/aeee222_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "24/10/2023",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "testadm",
+      "hoTen": "AIUFNSK",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Backend",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "fdshdh",
+    "biDanh": "backend-6",
+    "tenKhoaHoc": "Backend 6",
+    "moTa": "sfhsdfh",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/backend-6_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "15/12/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "aaaaaa",
+      "hoTen": "FFFFFAAadrty",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "FE_01",
+    "biDanh": "lap-trinh-website",
+    "tenKhoaHoc": "Lập trình website",
+    "moTa": "Hướng dẫn cách xây dựng một trang web từ cơ bản đến nâng cao",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-website.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "15/04/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "newbie002",
+      "hoTen": "NewbieUpdateDataNow",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "FE_REACT_NEW_2026_QN",
+    "biDanh": "frontend",
+    "tenKhoaHoc": "frontend",
+    "moTa": "<p>Good</p>",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/frontend_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "13/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "binnhutlk",
+      "hoTen": "Trần Quốc Nhựt haha",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "FE_REACT_VIP_2026_NEW",
+    "biDanh": "khoa-hoc-react-vip-2026",
+    "tenKhoaHoc": "Khóa học React VIP 2026",
+    "moTa": "<p>Amazing</p>",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/khoa-hoc-react-vip-2026_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "13/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "binnhutlk",
+      "hoTen": "Trần Quốc Nhựt haha",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "FE001",
+    "biDanh": "front-end-can-ban",
+    "tenKhoaHoc": "Front End căn bản ",
+    "moTa": "Phát triển web front-end là sự phát triển giao diện đồ họa người dùng của một trang web thông qua việc sử dụng HTML, CSS và JavaScript để người dùng có thể xem và tương tác với trang web đó.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/front-end-can-ban_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "11/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "hunggv1",
+      "hoTen": "hunggv",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "FE002",
+    "biDanh": "front-end-can-ban-1",
+    "tenKhoaHoc": "Front End căn bản 1",
+    "moTa": "Phát triển web front-end là sự phát triển giao diện đồ họa người dùng của một trang web thông qua việc sử dụng HTML, CSS và JavaScript để người dùng có thể xem và tương tác với trang web đó.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/front-end-can-ban-1_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "11/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "FE003",
+    "biDanh": "front-end-can-ban-2",
+    "tenKhoaHoc": "Front End căn bản 2",
+    "moTa": "Phát triển web front-end là sự phát triển giao diện đồ họa người dùng của một trang web thông qua việc sử dụng HTML, CSS và JavaScript để người dùng có thể xem và tương tác với trang web đó.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/front-end-can-ban-2.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "05/01/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "FE004",
+    "biDanh": "front-end-can-ban-3",
+    "tenKhoaHoc": "Front End căn bản 3",
+    "moTa": "Phát triển web front-end là sự phát triển giao diện đồ họa người dùng của một trang web thông qua việc sử dụng HTML, CSS và JavaScript để người dùng có thể xem và tương tác với trang web đó.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/front-end-can-ban-3_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "11/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "FE005",
+    "biDanh": "front-end-can-ban-4",
+    "tenKhoaHoc": "Front End căn bản 4",
+    "moTa": "Phát triển web front-end là sự phát triển giao diện đồ họa người dùng của một trang web thông qua việc sử dụng HTML, CSS và JavaScript để người dùng có thể xem và tương tác với trang web đó.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/front-end-can-ban-4_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "11/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "FE01",
+    "biDanh": "lap-trinh-ung-dung-web",
+    "tenKhoaHoc": "Lập trình ứng dụng web",
+    "moTa": "Hướng dẫn cách xây dựng một trang web từ cơ bản đến nâng cao",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-ung-dung-web.png",
+    "maNhom": "GP01",
+    "ngayTao": "15/04/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "newbie002",
+      "hoTen": "NewbieUpdateDataNow",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "FE111",
+    "biDanh": "frontend-firetruck",
+    "tenKhoaHoc": "FrontEnd FireTruck",
+    "moTa": "Học Khoá này về làm BE",
+    "luotXem": 888,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/frontend-firetruck.png",
+    "maNhom": "GP01",
+    "ngayTao": "07/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "reytino",
+      "hoTen": "Elon Musk",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "fe115",
+    "biDanh": "fe-cc",
+    "tenKhoaHoc": "FE CC",
+    "moTa": "Hay lắm, đừng học ",
+    "luotXem": 1556,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/fe-cc.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "06/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "@@@##",
+      "hoTen": "Bùi Như",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "FE115116117",
+    "biDanh": "fe-hot-hot",
+    "tenKhoaHoc": "FE HOT HOT",
+    "moTa": "CHÁN LẮM, HỌC LÀM GÌ",
+    "luotXem": 1500,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/fe-hot-hot.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "07/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "321321321312321",
+      "hoTen": "123testloginne",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "fe123",
+    "biDanh": "js123",
+    "tenKhoaHoc": "js123",
+    "moTa": "123",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/js123.png",
+    "maNhom": "GP01",
+    "ngayTao": "28/11/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "hieune",
+      "hoTen": "hieune",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "FE200_New_123",
+    "biDanh": "reactjs-can-ban-123",
+    "tenKhoaHoc": "ReactJS Can Ban 123",
+    "moTa": "Học ReactJS cơ bản",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/reactjs-can-ban-123_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "10/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "binnhutlk",
+      "hoTen": "Trần Quốc Nhựt haha",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "FE36",
+    "biDanh": "frontend-36",
+    "tenKhoaHoc": "FRONTEND 36",
+    "moTa": "FRONTEND 36",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/frontend-36.png",
+    "maNhom": "GP01",
+    "ngayTao": "13/02/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "kyupangjin",
+      "hoTen": "kyu pang jin",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "FE3861",
+    "biDanh": "frontend-3861",
+    "tenKhoaHoc": "Frontend 3861",
+    "moTa": "Frontend 3861",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/frontend-3861.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "08/01/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "kyupangjin",
+      "hoTen": "kyu pang jin",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "FE38611",
+    "biDanh": "frontend-38611",
+    "tenKhoaHoc": "Frontend 38611",
+    "moTa": "Frontend 38611",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/frontend-38611.png",
+    "maNhom": "GP01",
+    "ngayTao": "05/01/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "kyupangjin",
+      "hoTen": "kyu pang jin",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "FE386112345",
+    "biDanh": "frontend-386112345",
+    "tenKhoaHoc": "Frontend 386112345",
+    "moTa": "Frontend 38611345",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/frontend-386112345.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "05/01/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "kyupangjin",
+      "hoTen": "kyu pang jin",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "FE440312",
+    "biDanh": "fe440312",
+    "tenKhoaHoc": "FE440312",
+    "moTa": "FE440312",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/fe440312.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "09/01/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "kyupangjin",
+      "hoTen": "kyu pang jin",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "FE93861",
+    "biDanh": "front-end-3861",
+    "tenKhoaHoc": "Front end 3861",
+    "moTa": "Front end 3861",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/front-end-3861.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "09/01/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "kyupangjin",
+      "hoTen": "kyu pang jin",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "FEEFWCN",
+    "biDanh": "feef",
+    "tenKhoaHoc": "feef",
+    "moTa": "rfgve",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/feef.png",
+    "maNhom": "GP01",
+    "ngayTao": "13/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "giaovien01",
+      "hoTen": "Giáo Viên Test",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "Front End Test",
+    "biDanh": "font-end-test",
+    "tenKhoaHoc": "Font-End Test",
+    "moTa": "FE là .... 1",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/font-end-test_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "21/04/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_elearning",
+      "hoTen": "Phong Nguyễn 123",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "FS_01",
+    "biDanh": "lap-trinh-fullstack-web",
+    "tenKhoaHoc": "Lập trình FullStack Web",
+    "moTa": "Cung cấp kiến thức về các ngôn ngữ lập trình phía client như HTML, CSS, JavaScript và các framework như React, Angular hay Vue.",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-fullstack-web.jpeg",
+    "maNhom": "GP01",
+    "ngayTao": "15/04/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "newbie002",
+      "hoTen": "NewbieUpdateDataNow",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "FT001",
+    "biDanh": "fullstack-can-ban",
+    "tenKhoaHoc": "FullStack Căn Bản",
+    "moTa": "Lập trình viên Full Stack (hay còn được gọi là Full Stack Developer) là một khái niệm đang được rất quan tâm trong lĩnh vực công nghệ thông tin. Nó thường được hiểu là việc lập trình viên có thể xây dựng toàn bộ một ứng dụng từ phía client (front-end) đến phía server (back-end) và cả cơ sở dữ liệu.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/fullstack-can-ban_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "11/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "FT002",
+    "biDanh": "fullstack-can-ban-1",
+    "tenKhoaHoc": "FullStack Căn Bản 1",
+    "moTa": "Lập trình viên Full Stack (hay còn được gọi là Full Stack Developer) là một khái niệm đang được rất quan tâm trong lĩnh vực công nghệ thông tin. Nó thường được hiểu là việc lập trình viên có thể xây dựng toàn bộ một ứng dụng từ phía client (front-end) đến phía server (back-end) và cả cơ sở dữ liệu.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/fullstack-can-ban-1_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "11/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "FT003",
+    "biDanh": "fullstack-can-ban-2",
+    "tenKhoaHoc": "FullStack Căn Bản 2",
+    "moTa": "Lập trình viên Full Stack (hay còn được gọi là Full Stack Developer) là một khái niệm đang được rất quan tâm trong lĩnh vực công nghệ thông tin. Nó thường được hiểu là việc lập trình viên có thể xây dựng toàn bộ một ứng dụng từ phía client (front-end) đến phía server (back-end) và cả cơ sở dữ liệu.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/fullstack-can-ban-2_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "11/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "FT004",
+    "biDanh": "fullstack-can-ban-3",
+    "tenKhoaHoc": "FullStack Căn Bản 3",
+    "moTa": "Lập trình viên Full Stack (hay còn được gọi là Full Stack Developer) là một khái niệm đang được rất quan tâm trong lĩnh vực công nghệ thông tin. Nó thường được hiểu là việc lập trình viên có thể xây dựng toàn bộ một ứng dụng từ phía client (front-end) đến phía server (back-end) và cả cơ sở dữ liệu.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/fullstack-can-ban-3_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "11/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "FT005",
+    "biDanh": "fullstack-can-ban-4",
+    "tenKhoaHoc": "FullStack Căn Bản 4",
+    "moTa": "Lập trình viên Full Stack (hay còn được gọi là Full Stack Developer) là một khái niệm đang được rất quan tâm trong lĩnh vực công nghệ thông tin. Nó thường được hiểu là việc lập trình viên có thể xây dựng toàn bộ một ứng dụng từ phía client (front-end) đến phía server (back-end) và cả cơ sở dữ liệu.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/fullstack-can-ban-4_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "11/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "Golang2",
+    "biDanh": "golang",
+    "tenKhoaHoc": "Golang",
+    "moTa": "A Golang course offers in-depth instruction on the Go programming language, commonly known as Golang. This course typically covers key concepts such as syntax, data types, concurrency, and package management in Go. Participants will learn to build efficient and scalable applications using Golang, making it a valuable resource for both beginners and experienced developers looking to expand their proficiency in this modern programming language.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/golang_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "15/10/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "haha",
+    "biDanh": "nhap-mon-javascript",
+    "tenKhoaHoc": "Nhập môn javascript",
+    "moTa": "rất hay",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/nhap-mon-javascript_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "26/10/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "adminvlearning",
+      "hoTen": "Thành Hiệp",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "hahshdhf",
+    "biDanh": "giao-tiep-co-ban",
+    "tenKhoaHoc": "Giao tiếp cơ bản",
+    "moTa": "Giao tiếp cơ bản",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/giao-tiep-co-ban.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "11/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "trinhgiang",
+      "hoTen": "Trịnh Xuân Giang",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "hhhhhhkkkk",
+    "biDanh": "hhhhhkkk",
+    "tenKhoaHoc": "hhhhhkkk",
+    "moTa": "hhhhhh",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/hhhhhkkk.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "31/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "trinhgiang",
+      "hoTen": "Trịnh Xuân Giang",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "HICNONDOLOU3J",
+    "biDanh": "hic-non-doloremque-e",
+    "tenKhoaHoc": "Hic non doloremque e",
+    "moTa": "Qui non ad quis id ",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/hic-non-doloremque-e_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "02/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "adminnnn",
+      "hoTen": "sdcsdc",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "hihi123",
+    "biDanh": "backend-hihihi",
+    "tenKhoaHoc": "Backend hihihi",
+    "moTa": "hihi",
+    "luotXem": 4,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/backend-hihihi.png",
+    "maNhom": "GP01",
+    "ngayTao": "24/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "adminn1",
+      "hoTen": "Admin",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "IDEOSAUTDOJJM",
+    "biDanh": "iddddd",
+    "tenKhoaHoc": "iddddd",
+    "moTa": "Voluptatem nihil vel",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/iddddd_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "13/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "giaovien01",
+      "hoTen": "Giáo Viên Test",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "ITEC 2117",
+    "biDanh": "lap-trinh-c-",
+    "tenKhoaHoc": "Lập Trình C####",
+    "moTa": "SQL là xi cồ abc",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-c-.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "15/07/2023",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "123",
+      "hoTen": "Báo 34",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "ITEC210111",
+    "biDanh": "lap-trinh-web-django-python-6",
+    "tenKhoaHoc": "Lập Trình Web Django Python 6",
+    "moTa": "Lập Trình Web Django Python 6",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-web-django-python-6_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "23/08/2023",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "binhkr12",
+      "hoTen": "Phong Thanh1zz",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "ITEC2106",
+    "biDanh": "javascript-co-ban-cho-nguoi-moi-bat-dau",
+    "tenKhoaHoc": "JavaScript Cơ Bản Cho Người Mới Bắt Đầu",
+    "moTa": "Java là một ngôn ngữ lập trình mạnh và được ứng dụng trong nhiều lĩnh vực: game, ứng dụng",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/javascript-co-ban-cho-nguoi-moi-bat-dau.png",
+    "maNhom": "GP01",
+    "ngayTao": "27/03/2023",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "123",
+      "hoTen": "Báo 34",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "ITEC2108",
+    "biDanh": "angular-js-6",
+    "tenKhoaHoc": "Angular Js 6 ",
+    "moTa": "Angular là framework javascript mạnh mẽ. Angular tăng cường HTML cho các ứng dụng web. Nó có chức năng để giảm bớt quá trình phát triển ứng dụng web. Từ nhiều năm trước,khi HTML mới bắt đầu, nó được dự định để xây dựng trang web hoặc có thể nói đó là một cách để hiển thị tài liệu tĩnh, không để xây dựng một ứng dụng web động. Bây giờ, hãy tưởng tượng nếu HTML lần đầu tiên được dùng để xây dựng các ứng dụng web động, đó là Angular. Angular là những gì HTML sẽ có được nếu nó được thiết kế để xây dựng các ứng dụng web",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/angular-js-6_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "24/08/2023",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "dpnguyen",
+      "hoTen": "Sang",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "ITEC2110",
+    "biDanh": "cong-nghe-phan-mem",
+    "tenKhoaHoc": "Công Nghệ Phần Mềm",
+    "moTa": "Chuyên ngành công nghệ phần mềm là gì (Công nghệ thông tin phần mềm là gì)? Công nghệ thông tin (Ứng dụng phần mềm) còn được biết đến với tên gọi là kỹ thuật phần mềm. Công nghệ thông tin (Ứng dụng phần mềm) chính là những quy tắc trong công nghệ có sự liên quan mật thiết đến mọi khía cạnh của quá trình sản xuất phần mềm. Công nghệ thông tin (Ứng dụng phần mềm) được áp dụng một cách tiếp cận có hệ thống, định lượng và kỹ thuật cho sự phát triển, sử dụng cũng như bảo trì của các phần mềm hệ thống \r\nCông nghệ thông tin (Ứng dụng phần mềm) được xem là một bộ phận của quy trình công nghệ hệ thống. Công nghệ thông tin (Ứng dụng phần mềm) có sự liên quan đến sự phát triển của các ứng dụng, hạ tầng phần mềm, cơ sở dữ liệu và sự điều khiển hệ thống. Những kỹ sư phần mềm không chỉ tuân thủ phương pháp luận có tổ chức và hệ thống trong công việc mà còn phải sử dụng kỹ thuật, công cụ phù hợp với các vấn đề, tài nguyên sẵn có. \r\nCông nghệ thông tin (Ứng dụng phần mềm) có sự khác biệt với khoa học máy tính. Khoa học máy tính chỉ đề cập tới lý thuyết và vấn đề cơ bản. Ngược lại công nghệ phần mềm tập trung vào hoạt động xây dựng để chế tạo ra các phần mềm hữu ích cho con người. Sự phát triển mạnh mẽ của công nghệ phần mềm vượt trội hơn hẳn các lý thuyết của khoa học máy tính. Khoa học máy tính góp phần nhỏ, có vai trò giúp hoàn thiện công nghệ phần mềm. ",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/cong-nghe-phan-mem_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "24/08/2023",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "dpnguyen",
+      "hoTen": "Sang",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "ITEC2111",
+    "biDanh": "lap-trinh-web-asp-net-2",
+    "tenKhoaHoc": "Lập Trình Web ASP.NET 2",
+    "moTa": "1. Việc sử dụng mô hình MVC trong xây dựng trang web ",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-web-asp-net-2.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "25/10/2023",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ThaoTrang99",
+      "hoTen": "Trang Dang",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "ITEC2114",
+    "biDanh": "ung-dung-web",
+    "tenKhoaHoc": "Ứng Dụng Web",
+    "moTa": "Bước đầu tiên bạn cần phải học HTML&CSS, đây là hai ngôn ngữ phía client giúp bạn tạo giao diện của website. Thường thì bạn sẽ nhận một file thiết kế bằng Photoshop (PSD), sau đó bạn sẽ cắt chúng ra thành một file .html và kết hợp với CSS để tạo ra giao diện y hệt như file PSD.\r\n\r\nKhi bạn xây một căn nhà thì cần các vật liệu như: gạch, xi măng, cát, .. thì HTML chính là các vật liệu đó.\r\nKhi bạn sử dụng sơn, đồ trang trí nội thất để trang trí giúp căn nhà đẹp hơn thì nó giống như là CSS.\r\nNhư vậy HTML sẽ giúp hiển thị dữ liệu ở mức đơn sơ, còn CSS sẽ giúp trang web hiển thị đẹp và lộng lẫy hơn. Kết quả của bước này bạn phải nắm vững và cắt được một file PSD sang file HTML nhé.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/ung-dung-web.png",
+    "maNhom": "gp01",
+    "ngayTao": "26/03/2023",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "hunggv1",
+      "hoTen": "hunggv",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "jsja123",
+    "biDanh": "javascript-advanced",
+    "tenKhoaHoc": "JavaScript Advanced",
+    "moTa": "JavaScript là ngôn ngữ lập trình được nhà phát triển sử dụng để tạo trang web tương tác. Từ làm mới bảng tin trên trang mạng xã hội đến hiển thị hình ảnh động và bản đồ tương tác, các chức năng của JavaScript có thể cải thiện trải nghiệm người dùng của trang web. Là ngôn ngữ kịch bản phía máy khách, JavaScript là một trong những công nghệ cốt lõi của World Wide Web. Ví dụ: khi duyệt internet, bất cứ khi nào bạn thấy quảng cáo quay vòng dạng hình ảnh, menu thả xuống nhấp để hiển thị hoặc màu sắc phần tử thay đổi động trên trang web cũng chính là lúc bạn thấy các hiệu ứng của JavaScript.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/javascript-advanced_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "28/02/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "jss0123",
+    "biDanh": "javascript",
+    "tenKhoaHoc": "JavaScript",
+    "moTa": "JavaScript là ngôn ngữ lập trình được nhà phát triển sử dụng để tạo trang web tương tác. Từ làm mới bảng tin trên trang mạng xã hội đến hiển thị hình ảnh động và bản đồ tương tác, các chức năng của JavaScript có thể cải thiện trải nghiệm người dùng của trang web. Là ngôn ngữ kịch bản phía máy khách, JavaScript là một trong những công nghệ cốt lõi của World Wide Web. Ví dụ: khi duyệt internet, bất cứ khi nào bạn thấy quảng cáo quay vòng dạng hình ảnh, menu thả xuống nhấp để hiển thị hoặc màu sắc phần tử thay đổi động trên trang web cũng chính là lúc bạn thấy các hiệu ứng của JavaScript.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/javascript_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "28/02/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "kekekoko",
+    "biDanh": "kekekoko-co-ban",
+    "tenKhoaHoc": "kekekoko cơ bản",
+    "moTa": "kekekoko",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/kekekoko-co-ban.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "11/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "trinhgiang",
+      "hoTen": "Trịnh Xuân Giang",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "khoa-hoc-html-css-co-ban",
+    "biDanh": "khoa-hoc-html-css-co-ban",
+    "tenKhoaHoc": "khoa-hoc-html-css-co-ban",
+    "moTa": "khoa-hoc-html-css-co-ban",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/khoa-hoc-html-css-co-ban_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "26/05/2023",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "sangadmin1",
+      "hoTen": "Sang",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "kid",
+    "biDanh": "lap-trinh-cho-be",
+    "tenKhoaHoc": "Lập trình cho bé",
+    "moTa": "Khóa học lập trình cho be ",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-cho-be.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "28/07/2023",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "gdogda",
+      "hoTen": "Đỗ Văn A ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "KKKKKKKKKI",
+    "biDanh": "kkkkkkkkki",
+    "tenKhoaHoc": "KKKKKKKKKI",
+    "moTa": "KKKKKKKKKI",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/kkkkkkkkki.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "03/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "trinhgiang",
+      "hoTen": "Trịnh Xuân Giang",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "KLJAVA001",
+    "biDanh": "kotlin-tren-android",
+    "tenKhoaHoc": "Kotlin Trên Android",
+    "moTa": "Chào mừng bạn đến với khóa học Khái niệm cơ bản về Kotlin trên Android! Trong khóa học này, bạn sẽ tìm hiểu các thông tin cơ bản về cách tạo ứng dụng Android bằng ngôn ngữ lập trình Kotlin. Đồng thời, bạn sẽ tạo một tập hợp ứng dụng để bắt đầu hành trình trở thành nhà phát triển Android.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/kotlin-tren-android_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "14/02/2023",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "thanhtien2",
+      "hoTen": "Thanh Tiến Nguyễn",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "Laborum tempore qui",
+    "biDanh": "in-nostrum-veritatis",
+    "tenKhoaHoc": "In nostrum veritatis",
+    "moTa": "Eius recusandae Mod",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/in-nostrum-veritatis_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "13/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "lllllll",
+    "biDanh": "lllllll",
+    "tenKhoaHoc": "lllllll",
+    "moTa": "llllllll",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lllllll.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "01/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "trinhgiang",
+      "hoTen": "Trịnh Xuân Giang",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "LTDDFAT_002",
+    "biDanh": "lap-trinh-di-dong-voi-flutter",
+    "tenKhoaHoc": "Lập trình di động với Flutter",
+    "moTa": "Khoá học Lập trình di động với Flutter được thiết kế để cung cấp cho người học những kiến thức từ cơ bản đến nâng cao trong việc phát triển ứng dụng di động đa nền tảng bằng Flutter, một framework hiện đại của Google. Flutter cho phép các lập trình viên viết mã một lần và triển khai trên cả Android và iOS, giúp tiết kiệm thời gian, công sức và tăng tính nhất quán cho ứng dụng trên nhiều nền tảng khác nhau.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-di-dong-voi-flutter_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "27/11/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "bbb111",
+      "hoTen": "Admin Tran",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "LTP",
+    "biDanh": "_python",
+    "tenKhoaHoc": "_Python",
+    "moTa": "aaa",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/_python_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "07/03/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "Lùa gà",
+    "biDanh": "khoa-hoc-backend",
+    "tenKhoaHoc": "khóa học backend ",
+    "moTa": "Socket io  111",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/khoa-hoc-backend_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "26/10/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "alo",
+      "hoTen": "BC14 Đinh Gia Bảo",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "MB_01",
+    "biDanh": "lap-trinh-di-dong-da-nen-tang-voi-react-native",
+    "tenKhoaHoc": "Lập trình di động đa nền tảng với React Native",
+    "moTa": "Giúp cho lập trình viên có thể xây dựng được một ứng dụng mobile đa nền tảng khi kết thúc khoá học",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-di-dong-da-nen-tang-voi-react-native.png",
+    "maNhom": "GP01",
+    "ngayTao": "15/04/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "newbie002",
+      "hoTen": "NewbieUpdateDataNow",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "MB_02",
+    "biDanh": "lap-trinh-di-dong-da-nen-tang-voi-flutter",
+    "tenKhoaHoc": "Lập trình di động đa nền tảng với Flutter",
+    "moTa": "Hiểu rõ về Flutter để có thể xây dựng một ứng dụng đa nền tảng",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-di-dong-da-nen-tang-voi-flutter.png",
+    "maNhom": "GP01",
+    "ngayTao": "15/04/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "newbie002",
+      "hoTen": "NewbieUpdateDataNow",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "MGDB1",
+    "biDanh": "mongo-db-node-js-express-js",
+    "tenKhoaHoc": "Mongo DB, Node JS, Express JS",
+    "moTa": "MongoDB là một cơ sở dữ liệu mã nguồn mở và là cơ sở dữ liệu NoSQL(*) hàng đầu, được hàng triệu người sử dụng. MongoDB được viết bằng C++.\r\nNgoài ra, MongoDB là một cơ sở dữ liệu đa nền tảng, hoạt động trên các khái niệm Collection và Document, nó cung cấp hiệu suất cao, tính khả dụng cao và khả năng mở rộng dễ dàng.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/mongo-db-node-js-express-js_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "23/08/2023",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "thanhtien2",
+      "hoTen": "Thanh Tiến Nguyễn",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "minnn",
+    "biDanh": "minhhh",
+    "tenKhoaHoc": "Minhhh",
+    "moTa": "Accusamus sed omnis ",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/minhhh_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "02/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "adminnnn",
+      "hoTen": "sdcsdc",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "near-to-the-moon2",
+    "biDanh": "mysql-nang-cao-oi-la-cao",
+    "tenKhoaHoc": "MYSQL Nâng Cao ơi là cao",
+    "moTa": "MYSQL Nâng Cao ơi là cao",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/mysql-nang-cao-oi-la-cao_gp01.jpeg",
+    "maNhom": "gp01",
+    "ngayTao": "04/03/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "Neque",
+    "biDanh": "lap-trinh",
+    "tenKhoaHoc": "Lập trình",
+    "moTa": "Dicta deserunt omnis",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "16/05/2023",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "vin",
+      "hoTen": "Phụngxauxi",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "NODE12345",
+    "biDanh": "node-upload-test-12345",
+    "tenKhoaHoc": "Node Upload Test 12345",
+    "moTa": "Khoa hoc test upload file",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/node-upload-test-12345_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "13/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin",
+      "hoTen": "hoàng v",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "Node-JS-bakery-9",
+    "biDanh": "node-js-bakery-9-1",
+    "tenKhoaHoc": "Node JS bakery 9.1",
+    "moTa": "Tư duy lập trình là cách một người suy nghĩ để đưa ra những phương án giải quyết tối ưu cho những vấn đề mà họ đang gặp phải trong lập trình máy tính.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/node-js-bakery-9-1_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "04/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "Odio porro duis cons",
+    "biDanh": "qui-rerum-enim-non-q",
+    "tenKhoaHoc": "Qui rerum enim non q",
+    "moTa": "Error libero soluta ",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/qui-rerum-enim-non-q_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "13/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "OFFICIAAMEQ25",
+    "biDanh": "officia-amet-ducimu",
+    "tenKhoaHoc": "Officia amet ducimu",
+    "moTa": "Voluptas non perfere",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/officia-amet-ducimu_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "13/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "giaovien01",
+      "hoTen": "Giáo Viên Test",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "oop 2020",
+    "biDanh": "oop-2020",
+    "tenKhoaHoc": "oop 2020",
+    "moTa": "lập trình hướng đối tượng",
+    "luotXem": 5000,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/oop-2020.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "28/09/2023",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "alphameta",
+      "hoTen": "bao the tran tran tran",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "OOP100",
+    "biDanh": "lap-trinh-huong-doi-tuong",
+    "tenKhoaHoc": "Lập trình hướng đối tượng",
+    "moTa": "mo ta oop",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-huong-doi-tuong_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "22/10/2022",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "hunggv1",
+      "hoTen": "hunggv",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "Phone_100",
+    "biDanh": "swift-os",
+    "tenKhoaHoc": "Swift OS",
+    "moTa": "Swift là một ngôn ngữ lập trình hướng đối tượng dành cho việc phát triển iOS và macOS, watchOS, tvOS, Linux, và z/OS. được giới thiệu bởi Apple tại hội nghị WWDC 2014. Swift được mong đợi sẽ tồn tại song song cùng Objective-C, ngôn ngữ lập trình hiện tại dành cho các hệ điều hành của Apple",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/swift-os_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "25/11/2021",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "123",
+      "hoTen": "Báo 34",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "QUASNONREM9XD",
+    "biDanh": "quas-non-rem-quia-ra",
+    "tenKhoaHoc": "Quas non rem quia ra",
+    "moTa": "Exercitation ratione",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/quas-non-rem-quia-ra.png",
+    "maNhom": "gp01",
+    "ngayTao": "16/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "giaovien01",
+      "hoTen": "Giáo Viên Test",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "r",
+    "biDanh": "r",
+    "tenKhoaHoc": "r",
+    "moTa": "r",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/r.png",
+    "maNhom": "GP01",
+    "ngayTao": "04/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "test01",
+      "hoTen": "tester100 updated",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "RAPMAYTINHS3N",
+    "biDanh": "rap-may-tinh",
+    "tenKhoaHoc": "Ráp máy tính",
+    "moTa": "Ráp máy tínhRáp máy tínhRáp máy tínhRáp máy tính",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/rap-may-tinh_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "07/03/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "giaovien01",
+      "hoTen": "Giáo Viên Test",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "REACT910308",
+    "biDanh": "react-hook-2022",
+    "tenKhoaHoc": "React Hook 2022",
+    "moTa": "Hooks là một bổ sung mới trong React 16.8. Test",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/react-hook-2022_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "26/10/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "adminvlearning",
+      "hoTen": "Thành Hiệp",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "React991028",
+    "biDanh": "the-complete-guide-incl-hooks-react-router-redux-",
+    "tenKhoaHoc": "The Complete Guide (incl Hooks, React Router, Redux)",
+    "moTa": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more! Build powerful, fast, user-friendly and reactive web apps. Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/the-complete-guide-incl-hooks-react-router-redux-_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "26/10/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "RJS01",
+    "biDanh": "react-js",
+    "tenKhoaHoc": "React JS",
+    "moTa": "Thư viện của javascript",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/react-js.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "30/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "trinhgiang",
+      "hoTen": "Trịnh Xuân Giang",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "rmit123",
+    "biDanh": "rmit",
+    "tenKhoaHoc": "rmit",
+    "moTa": "tuan",
+    "luotXem": 1,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/rmit.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "29/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "112233",
+      "hoTen": "bao99",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "sadas",
+    "biDanh": "khoahoctesst",
+    "tenKhoaHoc": "khoahoctesst",
+    "moTa": "bhjuugkkn",
+    "luotXem": 155,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/khoahoctesst.png",
+    "maNhom": "GP01",
+    "ngayTao": "13/10/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin@",
+      "hoTen": "Admin@@",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "sadasd",
+    "biDanh": "lap-trinh-tren-thiet-bi-di-dong",
+    "tenKhoaHoc": "Lập trình Trên Thiết Bị Di Động",
+    "moTa": "Lập trình ứng dụng di động là viết ngôn ngữ lập trình (code) để xây dựng các tiện ích, chương trình, app, hệ điều hành trên mobile. Hiện nay, có 2 hệ điều hành trên Smartphone phổ biến nhất là Android và IOS.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/lap-trinh-tren-thiet-bi-di-dong_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "08/10/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_elearning",
+      "hoTen": "Phong Nguyễn 123",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "SD543",
+    "biDanh": "sd543",
+    "tenKhoaHoc": "SD543",
+    "moTa": "Java là một ngôn ngữ lập trình hướng đối tượng, dựa trên lớp được thiết kế để có càng ít phụ thuộc thực thi càng tốt. ",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/sd543_gp01.jpeg",
+    "maNhom": "gp01",
+    "ngayTao": "24/08/2023",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "sangadmin1",
+      "hoTen": "Sang",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FullStack",
+      "tenDanhMucKhoaHoc": "Lập trình Full Stack"
+    }
+  },
+  {
+    "maKhoaHoc": "SDSDSDHVU",
+    "biDanh": "sdsdsd",
+    "tenKhoaHoc": "sdsdsd",
+    "moTa": "sấcdcsadcsad",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/sdsdsd_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "13/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "giaovien01",
+      "hoTen": "Giáo Viên Test",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "Sequi proident aper",
+    "biDanh": "consectetur-non-occ",
+    "tenKhoaHoc": "Consectetur non occ",
+    "moTa": "Aut et quia harum qu",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/consectetur-non-occ_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "13/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "SIMILIQUEQWUN",
+    "biDanh": "similique-qui-labore",
+    "tenKhoaHoc": "Similique qui labore",
+    "moTa": "Vel quod sed quisqua",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/similique-qui-labore_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "13/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "giaovien01",
+      "hoTen": "Giáo Viên Test",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "ss222",
+    "biDanh": "khoahoctesxs",
+    "tenKhoaHoc": "KHOAHOCTEsxs",
+    "moTa": "KHOAHOCTESTIMGssx",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/khoahoctesxs_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "19/08/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "trucadmin ",
+      "hoTen": "trucadmin ",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "Test Tư duy lập trình",
+    "biDanh": "tu-duy-lap-trinh-can-ban",
+    "tenKhoaHoc": "Tư duy lập trình căn bản",
+    "moTa": "Tư duy lập trình edit",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/tu-duy-lap-trinh-can-ban_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "25/04/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_elearning",
+      "hoTen": "Phong Nguyễn 123",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "test10022",
+    "biDanh": "test10022",
+    "tenKhoaHoc": "test10022",
+    "moTa": "test1002",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/test10022.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "10/02/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "dean12",
+      "hoTen": "stringsdsdf",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "testAnh",
+    "biDanh": "testanh",
+    "tenKhoaHoc": "testAnh",
+    "moTa": "testAnh",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/testanh.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "09/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "trinhgiang",
+      "hoTen": "Trịnh Xuân Giang",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "test-expressjs",
+    "biDanh": "test-expressjs",
+    "tenKhoaHoc": "test-expressjs",
+    "moTa": "test-expressjs",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/test-expressjs_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "24/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "user321",
+      "hoTen": "user321",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "test-nestjs-v3",
+    "biDanh": "test-nestjs-v3",
+    "tenKhoaHoc": "test-nestjs-v3",
+    "moTa": "test-nestjs-v3",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/test-nestjs-v3_gp01.jfif",
+    "maNhom": "GP01",
+    "ngayTao": "24/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "user321",
+      "hoTen": "user321",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "thnfdn",
+    "biDanh": "srvs",
+    "tenKhoaHoc": "srvs",
+    "moTa": "",
+    "luotXem": 2,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/srvs.jpeg",
+    "maNhom": "GP01",
+    "ngayTao": "28/11/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "adminn1",
+      "hoTen": "Admin",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "tuananh_be01",
+    "biDanh": "qqq",
+    "tenKhoaHoc": "qqq",
+    "moTa": "",
+    "luotXem": 1,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/qqq.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "29/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "112233",
+      "hoTen": "bao99",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "BackEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Backend"
+    }
+  },
+  {
+    "maKhoaHoc": "TuDuy001",
+    "biDanh": "tu-duy-can-ban",
+    "tenKhoaHoc": "Tư Duy Căn Bản",
+    "moTa": "Tư duy lập trình là cách một người suy nghĩ để đưa ra những phương án giải quyết tối ưu cho những vấn đề mà họ đang gặp phải trong lập trình máy tính.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/tu-duy-can-ban_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "11/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "TuDuy002",
+    "biDanh": "tu-duy-lap-trinh-can-ban-2",
+    "tenKhoaHoc": "Tư duy lập trình căn bản 2",
+    "moTa": "Tư duy lập trình là cách một người suy nghĩ để đưa ra những phương án giải quyết tối ưu cho những vấn đề mà họ đang gặp phải trong lập trình máy tính.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/tu-duy-lap-trinh-can-ban-2.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "08/01/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "TuDuy003",
+    "biDanh": "tu-duy-lap-trinh-can-ban-123",
+    "tenKhoaHoc": "Tư duy lập trình căn bản 123",
+    "moTa": "Tư duy lập trình là cách một người suy nghĩ để đưa ra những phương án giải quyết tối ưu cho những vấn đề mà họ đang gặp phải trong lập trình máy tính.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/tu-duy-lap-trinh-can-ban-123_gp01.png",
+    "maNhom": "gp01",
+    "ngayTao": "11/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "hunggv1",
+      "hoTen": "hunggv",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "DiDong",
+      "tenDanhMucKhoaHoc": "Lập trình di động"
+    }
+  },
+  {
+    "maKhoaHoc": "TuDuy004",
+    "biDanh": "tu-duy-lap-trinh-can-ban-3",
+    "tenKhoaHoc": "Tư duy lập trình căn bản 3",
+    "moTa": "Tư duy lập trình là cách một người suy nghĩ để đưa ra những phương án giải quyết tối ưu cho những vấn đề mà họ đang gặp phải trong lập trình máy tính.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/tu-duy-lap-trinh-can-ban-3_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "11/05/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "TuDuy005",
+    "biDanh": "tu-duy-lap-trinh-can-ban-4",
+    "tenKhoaHoc": "Tư duy lập trình căn bản 4",
+    "moTa": "Tư duy lập trình là cách một người suy nghĩ để đưa ra những phương án giải quyết tối ưu cho những vấn đề mà họ đang gặp phải trong lập trình máy tính.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/tu-duy-lap-trinh-can-ban-4.png",
+    "maNhom": "gp01",
+    "ngayTao": "09/01/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "hunggv1",
+      "hoTen": "hunggv",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "UI",
+    "biDanh": "thiet-ke-ui-can-ban",
+    "tenKhoaHoc": "Thiết Kế UI Căn Bản",
+    "moTa": "Giao diện người sử dụng là điểm tương tác và giao tiếp giữa người và máy tính trong một thiết bị. Điều này có thể bao gồm màn hình hiển thị, bàn phím, chuột và sự xuất hiện của máy tính để bàn. Đó cũng là cách mà người sử dụng tương tác với một ứng dụng hoặc trang web.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/thiet-ke-ui-can-ban.png",
+    "maNhom": "GP01",
+    "ngayTao": "05/01/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "huhi",
+      "hoTen": "ha há ha 123123",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "UI001",
+    "biDanh": "thiet-ke-ui-can-ban-1",
+    "tenKhoaHoc": "Thiết Kế UI Căn Bản 1",
+    "moTa": "Giao diện người sử dụng là điểm tương tác và giao tiếp giữa người và máy tính trong một thiết bị. Điều này có thể bao gồm màn hình hiển thị, bàn phím, chuột và sự xuất hiện của máy tính để bàn. Đó cũng là cách mà người sử dụng tương tác với một ứng dụng hoặc trang web.",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/thiet-ke-ui-can-ban-1_gp01.jpg",
+    "maNhom": "gp01",
+    "ngayTao": "08/10/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "adminvlearning",
+      "hoTen": "Thành Hiệp",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "UI002",
+    "biDanh": "thiet-ke-ui-can-ban-2",
+    "tenKhoaHoc": "Thiết Kế UI Căn Bản 2",
+    "moTa": "Giao diện người sử dụng là điểm tương tác và giao tiếp giữa người và máy tính trong một thiết bị. Điều này có thể bao gồm màn hình hiển thị, bàn phím, chuột và sự xuất hiện của máy tính để bàn. Đó cũng là cách mà người sử dụng tương tác với một ứng dụng hoặc trang web.",
+    "luotXem": 91,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/thiet-ke-ui-can-ban-2.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "15/12/2024",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "ADelearning",
+      "hoTen": "Phong Nguyễn ",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "Ut ex eaque magni qu",
+    "biDanh": "cum-nostrud-nulla-of",
+    "tenKhoaHoc": "Cum nostrud nulla of",
+    "moTa": "Id in harum tenetur ",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/cum-nostrud-nulla-of_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "13/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "Design",
+      "tenDanhMucKhoaHoc": "Thiết kế Web"
+    }
+  },
+  {
+    "maKhoaHoc": "Vero quos qui volupt",
+    "biDanh": "consequat-aliqua-i",
+    "tenKhoaHoc": "Consequat Aliqua I",
+    "moTa": "At exercitation dolo",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/consequat-aliqua-i_gp01.png",
+    "maNhom": "GP01",
+    "ngayTao": "13/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "Voluptatibus commodo",
+    "biDanh": "commodi-porro-odit-c",
+    "tenKhoaHoc": "Commodi porro odit c",
+    "moTa": "Perferendis explicab",
+    "luotXem": 100,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/commodi-porro-odit-c_gp01.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "13/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "admin_test",
+      "hoTen": "admin_name",
+      "maLoaiNguoiDung": "HV",
+      "tenLoaiNguoiDung": "Học viên"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "TuDuy",
+      "tenDanhMucKhoaHoc": "Tư duy lập trình"
+    }
+  },
+  {
+    "maKhoaHoc": "XYZ",
+    "biDanh": "xyz",
+    "tenKhoaHoc": "XYZ",
+    "moTa": "XYZ",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/xyz.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "31/12/2025",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "trinhgiang",
+      "hoTen": "Trịnh Xuân Giang",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "XYZKKK",
+    "biDanh": "xyzkkk",
+    "tenKhoaHoc": "XYZKKK",
+    "moTa": "XYZKKK",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/xyzkkk.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "03/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "trinhgiang",
+      "hoTen": "Trịnh Xuân Giang",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  },
+  {
+    "maKhoaHoc": "XYZsdagsd",
+    "biDanh": "xyzsdagsd",
+    "tenKhoaHoc": "XYZsdagsd",
+    "moTa": "XYZsdagsd",
+    "luotXem": 0,
+    "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/xyzsdagsd.jpg",
+    "maNhom": "GP01",
+    "ngayTao": "03/01/2026",
+    "soLuongHocVien": 0,
+    "nguoiTao": {
+      "taiKhoan": "trinhgiang",
+      "hoTen": "Trịnh Xuân Giang",
+      "maLoaiNguoiDung": "GV",
+      "tenLoaiNguoiDung": "Giáo vụ"
+    },
+    "danhMucKhoaHoc": {
+      "maDanhMucKhoahoc": "FrontEnd",
+      "tenDanhMucKhoaHoc": "Lập trình Front end"
+    }
+  }
+]
