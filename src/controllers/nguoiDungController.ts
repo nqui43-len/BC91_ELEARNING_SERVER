@@ -76,17 +76,24 @@ export const loginUser = async (req: Request, res: Response): Promise<void> => {
   }
 };
 
-// [MỚI] 1. Lấy thông tin tài khoản (Dùng Token)
+// Lấy thông tin tài khoản (Dùng Token)
 export const getAccountInfo = async (
   req: CustomRequest,
   res: Response,
 ): Promise<void> => {
   try {
     const taiKhoan = req.user!.taiKhoan;
-    // Lấy thông tin người dùng kèm theo danh sách các khóa học họ đã ghi danh
+
+    // 1. Kéo dữ liệu từ DB (Phải join sâu 2 tầng: NguoiDung -> GhiDanh -> KhoaHoc)
     const userInfo = await prisma.nguoiDung.findUnique({
       where: { taiKhoan },
-      include: { ghiDanh: true }, // Kéo theo dữ liệu từ bảng GhiDanh
+      include: {
+        ghiDanh: {
+          include: {
+            khoaHoc: true, // Kéo theo thông tin chi tiết của khóa học từ bảng KhoaHoc
+          },
+        },
+      },
     });
 
     if (!userInfo) {
@@ -94,9 +101,20 @@ export const getAccountInfo = async (
       return;
     }
 
-    // Giấu mật khẩu trước khi trả về cho an toàn
-    const { matKhau, ...safeUserInfo } = userInfo;
-    res.status(200).json({ statusCode: 200, content: safeUserInfo });
+    // 2. Tách dữ liệu: Bỏ mật khẩu cho an toàn, bóc tách mảng ghiDanh ra riêng
+    const { matKhau, ghiDanh, ...safeUserInfo } = userInfo;
+
+    // 3. "Biến hình" dữ liệu: Map cái mảng ghiDanh của Prisma thành mảng chứa nguyên cục KhoaHoc
+    const chiTietKhoaHocGhiDanh = ghiDanh.map((item) => item.khoaHoc);
+
+    // 4. Trả về đúng cấu trúc mà Frontend đang chờ đợi
+    res.status(200).json({
+      statusCode: 200,
+      content: {
+        ...safeUserInfo,
+        chiTietKhoaHocGhiDanh, // Ghép đúng cái tên key này vào
+      },
+    });
   } catch (error) {
     sendError(res, 500, "Lỗi Server", error);
   }
